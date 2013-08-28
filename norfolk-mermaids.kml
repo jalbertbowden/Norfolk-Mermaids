@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Norfolk Mermaids</name>
+  <description><![CDATA[Locations of the famous mermaid statues in Norfolk, VA]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>758 W 22nd St</name>
+    <description><![CDATA[Norfolk, VA 23517<br><a href="https://maps.google.com/maps/place?ftid=0x89ba9847939bc6bf:0x2b66cb9565fb0742&amp;q=758+W.+22nd+Street+&amp;hl=en&amp;authuser=0&amp;t=f&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=Y-GyT7OuGILkyAXC2NGACA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=36.871579,-76.295273&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-76.295273,36.871578,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Botanical Gardens</name>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-76.200111,36.901566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>9640 Granby St</name>
+    <description><![CDATA[Norfolk, VA 23503<br><a href="https://maps.google.com/maps/place?ftid=0x89ba908d8e024e13:0x67649c4e2ffe5051&amp;q=9640+Granby+St.&amp;hl=en&amp;authuser=0&amp;t=h&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=5-OyT6-tFIXfiALLl6zRBQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=36.952580,-76.251523&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-76.251526,36.952579,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>5429 Tidewater Dr</name>
+    <description><![CDATA[Norfolk, VA 23509<br><a href="https://maps.google.com/maps/place?ftid=0x89ba977a95e44f2d:0x8ae38979aa0ae3b2&amp;q=5429+Tidewater+Dr.&amp;hl=en&amp;authuser=0&amp;t=h&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=--OyT_7DCcWsiQLtisXtBw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=36.888767,-76.260616&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-76.260612,36.888767,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Virginia Auto Rental</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-76.203011,36.855328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tidewater Womens Health Clinic</name>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-76.232651,36.853046,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Evelyn Ott School of Dance</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-76.252495,36.916702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tayloe Associates Inc</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-76.292435,36.852844,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>140 E Olney Rd</name>
+    <description><![CDATA[Norfolk, VA 23510<br><a href="https://maps.google.com/maps/place?ftid=0x89ba98113554f81d:0xbde778f0cd1efa8&amp;q=140+East+Onley,+Norfolk&amp;hl=en&amp;authuser=0&amp;t=h&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=fvayT7DmGYy6zQWm0qiQCA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=36.856121,-76.287714&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-76.287712,36.856121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>4300 Colley Ave</name>
+    <description><![CDATA[Norfolk, VA 23508<br><a href="https://maps.google.com/maps/place?ftid=0x89ba99b551eb5da9:0x7fb6238e9ea8bc26&amp;q=4300+Colley+Ave&amp;hl=en&amp;authuser=0&amp;t=h&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=KPeyT7DHN47CyQXRouGdCA&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=36.883649,-76.294849&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-76.294846,36.883648,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1111 Ingleside Rd</name>
+    <description><![CDATA[Norfolk, VA 23502<br>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-76.241882,36.856880,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

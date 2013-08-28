@@ -1,0 +1,332 @@
+Copied from: https://spreadsheets.google.com/spreadsheet/pub?key=0Aupo9cbROrtacHcxaXlYaVVCcU9lZEJTWkZ6eTAzRnc&gid=1	
+
+var beaches = [
+  ['Bondi Beach', -33.890542, 151.274856, 4],
+  ['Coogee Beach', -33.923036, 151.259052, 5],
+  ['Cronulla Beach', -34.028249, 151.157507, 3],
+  ['Manly Beach', -33.80010128657071, 151.28747820854187, 2],
+  ['Maroubra Beach', -33.950198, 151.259302, 1]
+];
+
+var mermaids = [
+  ['',]
+]
+
+
+
+
+					
+Belinda	Martha Gibson		Clark's Art Glass Studio on Boush St	found	
+					
+
+36.84419, -76.28938 By The Sea	Joscelyn L. Rivers	McDonald's Corporation	777 Waterside Dr., Sheraton Fountain downtown	found	
+					
+36.86426, -76.30101 By The Stars	Kimberly Kane	Galliford-Mullard Foundation	Discovery Care Center - 811 Redgate Ave.	found	
+					
+Candy Bar	Ben Teague	H. Blount Hunter Retail & Real Estate Research Company	Macarthur Center- 1st floor nearest the North parking garage area	found	
+					
+37.2738, -76.019 Celebrating The Arts	Clelia Sheppard	Bank of America	Palace Theater- 305 Mason Avenue, Cape Charles, VA	found	
+					
+36.8557, -76.2923 Courtney	Georgia Mason	Tayloe & Associates	Tayloe and Associates	253 West Bute Street, Norfolk, VA found	
+					
+36.8497, -76.288 Dominique	John Hickey	Equity Office Properties Dominion Tower	999 Waterside Drive, Dominion Tower, Norfolk	found	
+					
+Donna Marie		36.92483, -76.19147 Taylor's Landing Marina (Surfrider)
+			36.9307, -76.192 Vinings's Landing Marina in Oceanview	found	
+					
+36.85346, -76.23267 Elizabeth	Georgia Mason	Tidewater Women's Health Clinic	In front of Tidewater Women's Health Clinic on Norfolk Sq	found	
+					
+36.86124, -76.30066 Evey	Georgia Mason	Eastern Virginia Medical School	Lewis Hall, EVMS	found	
+					
+Evie		Evelyn Ott's School of Dance	
+Evelyn Ott's School of Dance- Little Creek Rd	found	
+7921 Harold Street
+Norfolk, VA 23518
+NOT ADDED
+
+36.898, -76.201 Faith	Chris Alexander		Lake Taylor Hospital's atrium	found	
+					
+36.85224, -76.29578 Flight	Ken Wright	Shriver & Holland	355 West Freemason Ave.	found	
+					
+36.850790, -76.292665 Flower Garden	Myke Irving	Nancy Chandler Associates	Heritage at Freemason	200 College Place
+Norfolk, VA 23510
+(757) 623-2200 found	
+					
+36.813648, -76.099696 Fresh From The Sea	Kim Mayo	Farm Fresh	Farm Fresh - 
+858 Chimney Hill Shopping Center	found	
+799 Chimney Hill Shopping Center, Virginia Beach, VA
+(757) 463-5515
+
+
+36.8475, -76.2931 Full Circle	Gayle Hinkley	Norfolk Industrial Development Authority	SunTrust Bank Downtown	150 West Main Street
+Norfolk, VA 23510found	
+					
+Gem From The Sea	Cynthia Graf	General Services Administration	In Lobby of Federal Building, downtown	found	
+					
+Gliding Through The Bay	J.L. Rivers	Willcox and Savage	Ocean View Visitors Center	found	
+					
+Healing Hands Mosaic			Hilltop Medical Center on Republic Rd	found	
+					
+Her Favorite Port (renamed "Elizabeth")	Nancy Decker	Portsmouth Renaissance Hotel	Portsmouth Welcome Center	found	
+					
+Holiday Sands Mermaid			Holiday Sand Hotel in Oceanview	found	
+					
+36.86271, -76.09534 Horizons	Chris Alexander		Kingston Elementary in Virginia Beach	found	
+					
+36.84665, -76.29252 Jestacular	Mike Bell	Norfolk Festevents	Main Street downtown in front of Festevents office	found	
+					
+36.85670, -76.28973 Jester Mermaid	Robin Dunbar/Patricia Barnette	SYR, Inc.	110 East Onley, Norfolk (on side of building)	found	140 Olney is closer on G-Maps. The tag is at 140.
+					
+36.88403, -76.2948 Jewel, The Bar Maiden	Carol Stark & Junior Girl Scout Troop #863	O'Sullivans Wharf/Loophole, Inc.	O'Sullivans Wharf 4300 Colley Ave	found	
+					
+Lady Ann	Georgia Mason	Colonial Place	Colonial Place - Norfolk	found	
+					
+36.918110, -76.192723 Lady Of Little Creek			Little Creek & Shore Dr	found	
+					
+36.8904, -76.3029 Lea Pard	Georgia Mason	Larchmont Elementry School	Jaguar in front of Larchmont Elementry	found	
+					
+Life. Celebrated Daily	Jason Berry/Tabb High School	Spirit of Norfolk	The Williams School- redecorated	found	
+					
+36.85725, -76.24188 Liquid Energy	Pamela Pine Winslow	Paxton Company	1111 Ingleside Dr. (attached to building)	found	
+					
+36.85488, -76.28992
+ Literacy	Deborah T. Small	The Virginian-Pilot	150 West Brambleton Ave.	found	
+					
+Lola	Wendy Farnham	Cosmopolitan Club and Dominion Capital Managers	Town Point Park - Otter Berth	found	
+					
+36.84480, -76.29075 Low Tide	Chris Alexander	Joe's Crab Shack	333 Waterside Drive	found	
+					
+36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr # 300
+Norfolk, VA 23502 found	
+					
+Maid For the Fleet	Georgia Mason	Naval Station Norfolk	Gilbert St. Norfolk Naval Base	found	
+					
+36.84664, -76.29189 Maid In Voyage	Mike Bell	Norfolk OpSail 2000	124 Main St.	found	
+					
+Maid To Cruise	Georgia Mason	Clark Nexsen	At the entrance to Naticus from Town Point Park	found	
+					
+36.9538, -76.2510 Marina	Georgia Mason	Pretlow Library	Pretlow Branch Library	found	
+					
+Mei Madeline	Nancy Cockman	Evergreen America Corporation	near Chinese Pagoda and Nauticus	found	
+					
+Mer Majesty			Sandfiddler Rd Virginia Beach	found	
+					
+36.8510, -76.2904 Mermaid de Leche	Martha Gibson	aLatte Café	aLatte Café's front window at 321 Granby St.	found	
+					
+36.84391, -76.13181 MerMax II			Max & Erma's Towne Center	found	
+					
+MHI Mermaid		MHI	Outside MHI's Norfolk facility near the midtown tunnel	found	
+					
+36.84558, -76.28752 Mirror Mosaic		First Virginia Bank	555 Main St. (First Virginia Bank Plaza)	found	
+					
+Miss Definitely Downtown	Chris Alexander	Heritage Bank & Trust - Plume St	On the corner of E. City Hall Ave & Granby St	found	
+					
+Miss Liberty	Chris Alexander		Virginia Beach Blvd	found	
+					
+Miss NATO	Peggy Mackey & Lucette Ritter	Lakewood Civic League	1511 Willow Wood Dr., Willard Model School	found	
+					
+36.865026, -76.284870 Miss Virginia Vine	Georgia Mason	Vicki Dickerson	The Hope House Thrift Store Front Window- Monticello & 18th	found	
+					
+Moomaid	Matthew Fine	The Safe Place	The Hope House Thrift Store Roof- Monticello & 18th	found	
+					
+36.85238, -76.29353 Mujeres Del Mar	Paul S. Baker	The Rosemyr Corporation	corner of Yarmouth St. & Freemason St	found	
+					
+36.8537, -76.2894 Music Mosaic	Jennifer Parker	Rising Tide Productions	NorVa on Monticello Ave.	found						
+317 Monticello Avenue Norfolk, VA 23510
+
+36.8457, -76.2894 Mystique	Terry Lee Sr.	Sheraton Norfolk Waterside Hotel	Main lobby of Waterside Sheraton	found	
+777 Waterside Drive Norfolk, VA 23510
+					
+36.9683, -76.261 Nautical Mermaid	Clelia Sheppard	Judy Boone Realty	Oceanview Peir parking lot	found	
+400 West Ocean View Avenue Norfolk, VA 23503
+
+36.85713, -76.29277 Nora Folk	Georgia Mason	Chrysler Museum	Chrysler Museum parking lot	found	
+	
+Chrysler Museum of Art
+245 West Olney Road
+Norfolk, Virginia 23510
+
+36.886400, -76.217673 Norfolk, Gateway To The Sea	Betty Ann Lucaa	Quick and Reilly	Bell Motors	3335 North Military Hwy
+Norfolk, VA 23518 found	
+					
+Ocarina	Ryan Brinkley	Webb Technologies	can be seen from the 1 Fish, 2 Fish deck.	found	
+					
+36.84390, -76.29180 Ocean Patina	Cindy Graf	American Rover/ Waterside Marina	333 Waterside Dr # 106
+Norfolk, VA 23510	found	
+					
+36.85279, -76.29114 Oceana	Ryan Brinkley	Bank of the Commonwealth	403 Boush St. - next to bank	found	
+					
+36.868395, -76.288432 Palace Princess Beatrice	Deborah T. Small	The Palace Shops	21st Street and Llewellyn Avenue	found	
+					
+36.8428, -76.214 Picasso's Beauty			Virginia Eye Consultants- 241 Corporate Blvd	found	
+					
+36.849962, -76.290492 Plated Mermaid	Ed Gibbs	Tidewater Community College	Corner of College Dr. and Granby St.	found	
+					
+Princess Azalea	Bess Decker	Peter Decker, Jr. & Howard Webb	Nauticus - Third floor balcony	found	
+					
+Rainbow	Mary Anne Gamboa	MacArthur Center Mall	Gerald Yagens Building/ VA Beach	found	
+					
+Reflections of the Soul	Bridget Watson, Virginia Butler & Heather Kyle	CDR and Mrs. Otis E. Butler, III	Only visable from the Larchmont bridge	found	
+					
+Scales Of Justice	Stephanie Claire	Vandeventer Black LLP	Outside Balcony Of Norfolk WTC	found	
+					
+Sea Shimmer	Sherry L. Hodges	The Therapy Network	Ghent Physical Therapy W. 21st St.	found	
+					
+36.906151, -76.208964 Seasonal Maid	Amy Tardy/Tabb High School	Norfolk Botanical Gardens	Norfolk Botanical Gardens, 6700 Azalea Garden Rd.	found	
+					
+36.9156, -76.2721 Shamrock	Mike Hughes & Stefanie Claire	Suburban Management Company	7510 Granby St. - on top of awning	found	
+					
+37.267216, -76.020431 She Sells Seashells	Lorraine Fink/Martha Thrasher	Advantis Real Estate	Blue Heron Realty- Cape Charles Office	found	
+					
+36.84711, -76.29040 Ships Ahoy	Chris Alexander	Hampton Roads Shipping Association	236 Plume St	found	
+					
+36.913184, -76.273160 Siren	Michele Barnes	Dr. Marshall Bonnie	7400 Granby St.	found	
+					
+Sirena At Play in Willoughby	Alba Bragoli/ revamped by Georgia Mason	Willoughby Civic League	Pretlow Branch Library	found	
+					
+Sirene de Mission		DePaul Medical Center	Doctor was on median on Granby st in front of DePaul	found	
+					
+36.845963, -76.281906 Soul Session	Matthew Dancigers	Heilig, McKenry, Fraim & Lolla	Miller Oil Company - 1000 East City Hall Ave.	found	
+					
+Spirit (renamed "Hope")	Chris Alexander	Lynda B. Kennedy	Lake Taylor Hospital	found	
+					
+36.8545, -76.2852 Spoken Word	Sharon Franklin/Public Housing Youth	NRHA	Corner of St. Pauls Blvd. and Brambleton Ave.	found	
+36.93635, -76.26188 Star	Katelyn Broach and students	Northside Middle School	8720 Granby St. Northside Middle School	found	
+					
+36.87593, -76.19096 Sukey's Mermaid	Georgia Mason	Norfolk Academy	1585 Wesleyan Dr. Norfolk	found	
+					
+36.84741, -76.29123 The Jewel Of Norfolk	Bess Decker	Decker, Cardon, Weintraub and Neskis	201 E. Plume St. - Decker Bldg.	found	
+					
+36.86857, -76.30440 Thumbilina	Children of W.H. Taylor Elementary	W.H. Taylor Elementary PTA	1122 W. Princess Anne Rd.	found	
+					
+36.8790, -76.2761 Tiger Wood	Joscelyn L. Rivers	Mermaids on Parade Committee	Virginia Zoo	found	
+					
+36.832847, -76.283175 Toga	Mary Anne Gamboa	Goodman & Company/Wilbanks, Smith and Thomas	Berkley Ave. and Main St.	found	
+					
+36.84468, -76.29042 USS Wisconsin	Myke Irving	CH2M HILL	333 Waterside Drive (Inside, hanging above food court)	found	
+					
+36.847627, -76.277993 Yuma Yah	Dave Iwans	DIA Marketing & Advertising	1139 East Charlotte Street Norfolk, VA 23504-4213 - Hunton YMCA	found	
+					
+Mirror Mosaic II		Harbor Group	Blue Heron Realty- Cape Charles Office	found/ not public	
+					
+Techno Mermaid	Ces Ochoa/Darlene Stoll	InfiNet	740 Duke St. - InfiNet building	found/ not public	
+					
+36.873306, -76.301607 Silver Mermaid	Liz Greene	William E. Wood	Corner of Hampton Blvd. and 21st St.	found/ not public/ damaged	
+					
+Heart of the Sea	Sandra Singletary	F.O.R. kids, Inc.		not public	
+					
+Lighted Mermaid	Debbie J. Hobbs	Sentara Healthcare	Blue Heron Realty- Cape Charles Office	not public	
+					
+Mer Bones	Gayle Hinkley	Denbigh Orthopaedics & Sports Medicine		not public	
+					
+36.853190, -76.210836 Beauty Of The Sea	Mike Wedner	Military Circle Mall	Econo Lodge - 865 Military Hwy	not public/ being repaired	
+					
+36.841078, -76.210023 Justicalthing	Sydney Meers	Rutter, Walsh, Mills & Rutter	Dunmar Moving Systems - 130 South Military Hwy	not public/ being repaired	
+					
+36.853269, -76.294143 Mishell	Linda Serpe	Glasser & Glasser	Downtown Norfolk YMCA - 312 West Bute St. In the lobby	not public/ being repaired	
+					
+Sybil	D'Art Center artists	Lyall Design Architects	125 College Dr., D'Art Center courtyard	not public/ being repaired	
+					
+Broadway Nights	Stephanie Stutz and Julie Woodall	Broadway at Chrysler Hall	Norfolk Scope fountain or Crysler Hall	not public/ city storage	
+					
+Carousel	John Moore Reed	Roper-Morgan Group/Burkhard Thomas	Town Point Park - Otter Berth	not public/ city storage	
+					
+36.853499, -76.292088 See Maiden	Rachael Gilbert	Gilbert Optical	241 W. York St	not public/ city storage	
+					
+Maid On Time	Georgia Mason	Fed Ex		not public/ warehoused	
+					
+36.865755, -76.299000 Press Party/ Media Mermaid		Mermaids on Parade	Magnolia Steak House, Colley Ave.	not public/ warehoused	
+					
+36.857547, -76.289569 Flying Spirit	Ken Wright	Cederquist Rodriguez Maddux Ripley	129 W. Virginia Beach Blvd.	retired/ destroyed	
+					
+Beauty Underneath	Monique Milleson	Town Pointe Club		sold at auction	zapp inc. owner baught her
+					
+Catch Of The Day	Terry Cox-Joseph	Sture V. Sigfred, Jr. M.D. P.C.		sold at auction	
+					
+Penny	Ed Beardsley	Yukon Lumber		sold at auction	
+					
+Reach For the Stars	Kathy Prendergast	Bank of Hampton Roads		sold at auction	outer banks??
+					
+Spectrum Gold	Michele D. Barnes	Black & White Cabs		sold at auction	
+					
+The Norfolk Admiralette	Kathy Pendergrast	The Norfolk Admirals		sold at auction	
+					
+Timeless Elegance	Myke Irving	Frank Spicer Co	Joe Kenedy-	sold at auction	
+					
+Aquatic Princess	Ryan Brinkley	Wright Company LLC	258 Granby St. in window (across the street from Havana	stolen/ never recovered	
+					
+Sports Under The Sea	Joscelyn L. Rivers	Davis Interiors	7336 Granby St., Norfolk Collegiate Upper School	stolen/ never recovered	
+					
+String Of Pearls	Carrie E. Kitchell	Changes Hair and Day Spa	Ghent- across from Farm Fresh	stolen/ never recovered	
+					
+A New Horizon	Steven F. Morris	Lab One	Ships Cabin resteraunt- OV	unknown	
+					
+Accidental Tourist	Myke Irving	Norfolk Covention and Visitors Bureau		unknown	
+					
+Angel Of Mercy	Koreen D'Amelio	Nelson M. Karp Medical Center	TCC, across from MacArthur Center	unknown	
+					
+Brass Maiden	John Hickey	Levin's of Virginia		unknown	
+					
+Calypso	Cassandra Akers	Dominion Capital Management/ Cosmopolitan Club		unknown	
+					
+Collection Of Stars	National Artists' Signatures	Mermaids on Parade Committee	500 Main St., Suntrust Bank Lobby	unknown	
+					
+Doubloon	Myke Irving	Cenit Bank	CENIT bank	unknown	
+					
+Fairway Maiden	Stephanie Stutz and Angela Satterfield	Mermaids on Parade Committee		unknown	
+					
+Hats Off to The Navy	Koreen Damelio	Ghent on the Square Apts.	Norfolk, near Opera House on corner of Llewellyn	unknown	
+					
+Jealous Mistress	Joscelyn L. Rivers	Protogyrou & Rigney, PLC	215 City Hall Ave.	unknown	
+					
+Jewel	Bill Doughtery	Daimond & Jewelry Exchange		unknown	
+					
+Jewel Of The Sea	Cynthia Graf	BB&T	BB&T Branch 539 W. 21st St.	unknown	
+					
+Lady Of The Links	Paul S. Baker	American Golf Corporation		unknown	
+					
+Leading The Way	Clelia Sheppard	Judy Boone Realty	809 East Ocean View Ave.	unknown	
+					
+Maid Of Lobster	Mike Bell	Bay Mechanical Inc.		unknown	
+					
+Memory	Cathy Cox	Debbie & Matt Mervis	Stockley Gardens	unknown	
+					
+Mythical Sirena	Alba Bragoli	Ocean View Merchants Association	Ocean View Park, next to Pagoda	unknown	
+					
+Nebula/ She's Every Ocean	Carolyn Sleeper/Norfolk Collegiate Upper	Heritage Bank & Trust		unknown	
+					
+Norfolk, A Banner City	Betty Ann Lucaa	Northwestern Mutual Life	Town Point Club - Otter Berth	unknown	
+					
+Norfolk, Seagodess and Her Children	Betty Ann Lucaa	S.L. Nusbaum Realty Co.	Colonial Place - Norfolk	unknown	
+					
+Nymphork	Nanette Albano/Diane Murdock	HBA Architects		unknown	
+					
+Of The Sea	Jennifer Blythe	Bank of the Commonwealth	Bazemore's - Hampton Blvd. at foot of Lafayette Bridge	unknown	
+					
+Picture Frame Mermaid	Amy Posey	The Harbor Gallery		unknown	
+					
+Postcards From Hampton Roads	Myke Irving	Norfolk International Airport Authority	Outside Norfolk Scope Arena	unknown	
+					
+Reaching For A Dream	Leslie Hartig & Lisa Edwards	Merrill Lynch		unknown	
+					
+Reflections	Barbara Mastaglio	VMASC	7034 Azalea Garden Rd.	unknown	
+					
+Riverview	Ray M. Hershberger	GNC	Town Point Park	unknown	
+					
+Rock- Ell	Gail O'Neill Respess	Peter G. Decker Jr. & Howard Webb		unknown	
+					
+Shellina	Judy Saunders/ Maury High School	Ghent Business Association		unknown	
+					
+Spectrum	Mike Wedner	Norshipco		unknown	
+					
+Spirit of the Sapphire	Angie Thomas	Sapphire Creations		unknown	
+					
+Sue Nami	Leesa Wheeler	Hambright Calcagno & Downing		unknown	
+					
+The Golden Tourist	Lorraine Fink/Martha Thrasher	Norfolk International Airport Authority	Scope Plaza fountain	unknown	
+					
+Wavey Mermaid	Adrianne Shepard/Tabb High School	Norfolk Waterside Marriott	The Marriott in Norfolk	unknown	
+					
+Evening Sea Goddess	Michele D. Barnes	Dudley Cooper Realty Corp.		unknown/ contact owner if I track her down	
+					
+Mermaid Of Justice	Bess Decker	Decker Cardon Weintraub and Neskis	Inside courthouse on St. Paul's Blvd.		
