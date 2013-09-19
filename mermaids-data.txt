@@ -138,11 +138,6 @@ Picasso's Beauty - This mysterious maiden is tucked away near the FBI building a
 Mer Majesty - Her highness is a rare concrete mermaid but she carries her weight well. Her tail is inset with a tile mosaic and she dons several types of sea shells. She is also the only mermaid in Sandbridge surrounded by more than a dozen Promise Dolphins.
 
 
-Tiger Woods Mermaid
-tiger striped mermaid @ norfolk zoo
-norfolk-zoo-tiger-woods-mermaid-DONTUSE.jpg
-norfolk-zoo-tiger-woods-mermaid-fx.jpg
-
 
 This bright and colorful mermaid on parade is located outside of the Virginia Oncology Associates building near Norfolk International Airport.
 The Sea Shimmer mermaid, located outside of Ghent Physical Therapy on W. 21st Street.
@@ -242,8 +237,6 @@ Jester Mermaid
 Jewel the Bar Maiden
 	
 Lea Pard
-	
-Tiger Wood
 	
 Sirene de Mission
 	
@@ -422,8 +415,7 @@ Canadian Mermaid
 10/04/08	Candybar/Go Diva	MacArthur Mall	x
 
 Catch of the Bay		
-
-Celebrating the Arts		
+		
 
 09/20/08	Courtney	253 W. Bute Street - Tayloe Associates	x
 
@@ -629,7 +621,7 @@ The Golden Tourist	Scope Plaza Fountain
 
 Thumbelina	1122 W. Princess Anne Road	
 
-09/30/08	Tiger Wood	Norfolk Zoo	x
+
 
 Timeless Elegance	North of Downtown	
 
@@ -637,7 +629,7 @@ Timeless Elegance	North of Downtown
 
 07/09/09	Toola	Grand Rental, 3419 Colley Avenue, Norfolk	
 
-09/20/08	Mermaid de leche	A Café Latte, Granby Street	x
+
 
 10/01/08	Horizon	Kingston Elementary School	x
 
@@ -711,7 +703,7 @@ Sybil	125 College Drive, D'Art Center Courtyard	NF
 
 11/4/2008	Life Celebrated Daily	151 S. Main Street - Norfolk Tug Co.	Donated to The Williams School	
 
-11/21/2008	Collection of Stars	Suntrust Bank Lobby 500 Main Street - BB&T????	NF
+
 
 
 
@@ -737,6 +729,12 @@ Belinda	Martha Gibson		Clark's Art Glass Studio on Boush St	found
 Candy Bar	Ben Teague	H. Blount Hunter Retail & Real Estate Research Company	Macarthur Center- 1st floor nearest the North parking garage area	found	
 					
 37.2738, -76.019 Celebrating The Arts	Clelia Sheppard	Bank of America	Palace Theater- 305 Mason Avenue, Cape Charles, VA	found	
+NAME PIX THIS YO!! celebrating-the-arts-mermaid-palace-theater-305-mason-avenue-cape-charles-virginia-
+celebrating-the-arts-mermaid-severely-damaged-in-picture.jpg" alt="Celebrating the Arts Mermaid Severely Vandalised (I'm assuming prior to moving to the Eastern Shore)" />
+
+
+
+
 					
 36.8557, -76.2923 Courtney	Georgia Mason	Tayloe & Associates	Tayloe and Associates	253 West Bute Street, Norfolk, VA found	
 					
@@ -829,7 +827,9 @@ Mei Madeline	Nancy Cockman	Evergreen America Corporation	near Chinese Pagoda and
 					
 Mer Majesty			Sandfiddler Rd Virginia Beach	found	
 					
-36.8510, -76.2904 Mermaid de Leche	Martha Gibson	aLatte Café	aLatte Café's front window at 321 Granby St.	found	
+36.8510, -76.2904 Mermaid de Leche	Martha Gibson	aLatte Café	aLatte Café's front window at 321 Granby St.	found
+granby-street-alatte-cafe-mermaid-de-leche-DONTUSE-01.jpg
+granby-street-alatte-cafe-mermaid-de-leche-DONTUSE-02.jpg
 					
 36.84391, -76.13181 MerMax II			Max & Erma's Towne Center	found	
 					
@@ -932,7 +932,14 @@ northside-middle-school-star-mermaid-DONTUSE.jpg
 					
 36.86857, -76.30440 Thumbilina	Children of W.H. Taylor Elementary	W.H. Taylor Elementary PTA	1122 W. Princess Anne Rd.	found	
 					
-36.8790, -76.2761 Tiger Wood	Joscelyn L. Rivers	Mermaids on Parade Committee	Virginia Zoo	found	
+36.8790, -76.2761 Tiger Wood	Joscelyn L. Rivers	Mermaids on Parade Committee	Virginia Zoo	found
+Tiger Woods Mermaid
+tiger striped mermaid @ norfolk zoo
+norfolk-zoo-tiger-woods-mermaid-DONTUSE.jpg
+norfolk-zoo-tiger-woods-mermaid-fx.jpg
+norfolk-zoo-tiger-woods-mermaid-DONTUSE-01.jpg
+
+
 					
 36.832847, -76.283175 Toga	Mary Anne Gamboa	Goodman & Company/Wilbanks, Smith and Thomas	Berkley Ave. and Main St.	found	
 					
@@ -1014,11 +1021,14 @@ Brass Maiden	John Hickey	Levin's of Virginia		unknown
 Calypso	Cassandra Akers	Dominion Capital Management/ Cosmopolitan Club		unknown
 calypso-mermaid-cassandra-akers-MISSING-DONTUSE.jpg
 					
-Collection Of Stars	National Artists' Signatures	Mermaids on Parade Committee	500 Main St., Suntrust Bank Lobby	unknown	
+Collection Of Stars	National Artists' Signatures	Mermaids on Parade Committee	500 Main St., Suntrust Bank Lobby	unknown
+500-main-street-suntrust-lobby-collection-of-stars-mermaid-national-artists-signatures-MISSING-DONTUSE.jpg
+
 					
 Doubloon	Myke Irving	Cenit Bank	CENIT bank	unknown	
 					
-Fairway Maiden	Stephanie Stutz and Angela Satterfield	Mermaids on Parade Committee		unknown	
+Fairway Maiden	Stephanie Stutz and Angela Satterfield	Mermaids on Parade Committee		unknown
+fairway-maiden-mermaid-stephanie-stutz-and-angela-satterfield-MISSING-DONTUSE.jpg
 					
 Hats Off to The Navy	Koreen Damelio	Ghent on the Square Apts.	Norfolk, near Opera House on corner of Llewellyn	unknown	
 					
@@ -1275,6 +1285,7 @@ at her unveiling, she will be dedicated in loving memory of deeply missed co-wor
 
 Thumbellina
 Donated by their PTA, W.E.Taylor Elementary School's mermaid rests in the media center. This cutie got her name from the painting technique used on her tail. It's made from using the thumb prints of her students!
+w.e.-taylor-elementary-school-located-in-media-center-thumbellina-mermaid.jpg
 
 Techno Mermaid
 displayed privately on secure floor in the InfiNet building; composed entirely of computer parts, including her eyes that are made from webcam lenses, and the scales on her tail with 3.5" floppies
@@ -1308,8 +1319,13 @@ Norfolk, VA
 
 http://exploremonticellovillage.blogspot.com/
 
+
+<a href="
+map-google-earth-data/norfolk-mermaids-map-google-earth-data.kml"><img src="i/view-in-google-earth-kml-icon.jpg" alt="View Map In Google Earth KML" /></a>
+<a href="
+map-google-earth-data/norfolk-mermaids-map-google-earth-data.xml"><img src="i/view-in-google-earth-kml-icon.jpg" alt="View Map In Google Earth XML" /></a>
 <ul>
-  <li><a href="https://picasaweb.google.com/lh/albumMap?uname=mrsmulcahy&aid=5325846353868799681#map"><b>Mermaid Hunting</b> via aye_m_blessed on Picasa Web Albums</a></li>
+  <li><a href="https://picasaweb.google.com/lh/albumMap?uname=mrsmulcahy&aid=5325846353868799681#map"><b>Mermaid Hunting</b> via aye_m_blessed on Picasa Web Albums <img src="pwa-picasa-web-albums-masthead-en-us-200x33.gif" alt="PWA &#45; Picasa Web Albums" /></a></li>
   <li><a href="http://ww2.odu.edu/al/arted/studentportfolios/s_thornton/0015%20COMMUNITY.html">Community Involvement</a></li>
   <li><a href="http://saintmaryshome.org/making-mermaid-magic/">Making Mermaid Magic</a></cite></li>
   <li><a href="http://jsfiddle.net/jalbertbowdenii/4Y3JF/5/">
