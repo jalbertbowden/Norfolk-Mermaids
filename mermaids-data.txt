@@ -138,7 +138,12 @@ Picasso's Beauty - This mysterious maiden is tucked away near the FBI building a
 Mer Majesty - Her highness is a rare concrete mermaid but she carries her weight well. Her tail is inset with a tile mosaic and she dons several types of sea shells. She is also the only mermaid in Sandbridge surrounded by more than a dozen Promise Dolphins.
 
 
+Tiger Woods Mermaid
 tiger striped mermaid @ norfolk zoo
+norfolk-zoo-tiger-woods-mermaid-DONTUSE.jpg
+norfolk-zoo-tiger-woods-mermaid-fx.jpg
+
+
 This bright and colorful mermaid on parade is located outside of the Virginia Oncology Associates building near Norfolk International Airport.
 The Sea Shimmer mermaid, located outside of Ghent Physical Therapy on W. 21st Street.
 The Ocean Patina Mermaid, on display at Waterside. 
@@ -767,7 +772,9 @@ Norfolk, VA 23510
 36.8475, -76.2931 Full Circle	Gayle Hinkley	Norfolk Industrial Development Authority	SunTrust Bank Downtown	150 West Main Street
 Norfolk, VA 23510found	
 					
-Gem From The Sea	Cynthia Graf	General Services Administration	In Lobby of Federal Building, downtown	found	
+Gem From The Sea	Cynthia Graf	General Services Administration	In Lobby of Federal Building, downtown	found
+
+	
 					
 Gliding Through The Bay	J.L. Rivers	Willcox and Savage	Ocean View Visitors Center	found	
 					
@@ -806,8 +813,9 @@ low-tide-behind-eat-at-joes-waterside-02.jpg
 low-tide-behind-eat-at-joes-waterside-03.jpg
 joes-crab-shack-outside-waterside-low-tide-at-waterside-mermaid-DONUSE.jpg
 					
-36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr # 300
-Norfolk, VA 23502 found	
+36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr #300 Norfolk, VA 23502 found
+5900-lake-wright-drive-maid-for-life-mermaid-virginia-oncology-associates-SCREENSHOT.png
+	
 					
 Maid For the Fleet	Georgia Mason	Naval Station Norfolk	Gilbert St. Norfolk Naval Base	found	
 					
@@ -995,13 +1003,16 @@ String Of Pearls	Carrie E. Kitchell	Changes Hair and Day Spa	Ghent- across from 
 A New Horizon	Steven F. Morris	Lab One	Ships Cabin resteraunt- OV	unknown	
 					
 Accidental Tourist	Myke Irving	Norfolk Covention and Visitors Bureau		unknown	
-					
+accidental-tourist-mermaid-MISSING-DONTUSE.jpg
+
+				
 Angel Of Mercy	Koreen D'Amelio	Nelson M. Karp Medical Center	TCC, across from MacArthur Center	unknown	
 					
 Brass Maiden	John Hickey	Levin's of Virginia		unknown
 338- The Brass Maiden-mermaid-MISSING-DONTUSE.jpg	
 					
-Calypso	Cassandra Akers	Dominion Capital Management/ Cosmopolitan Club		unknown	
+Calypso	Cassandra Akers	Dominion Capital Management/ Cosmopolitan Club		unknown
+calypso-mermaid-cassandra-akers-MISSING-DONTUSE.jpg
 					
 Collection Of Stars	National Artists' Signatures	Mermaids on Parade Committee	500 Main St., Suntrust Bank Lobby	unknown	
 					
@@ -1039,7 +1050,10 @@ Of The Sea	Jennifer Blythe	Bank of the Commonwealth	Bazemore's - Hampton Blvd. a
 					
 Picture Frame Mermaid	Amy Posey	The Harbor Gallery		unknown	
 					
-Postcards From Hampton Roads	Myke Irving	Norfolk International Airport Authority	Outside Norfolk Scope Arena	unknown	
+Postcards From Hampton Roads	Myke Irving	Norfolk International Airport Authority	Outside Norfolk Scope Arena	unknown
+norfolk-scope-outside-the-arena-postcards-from-hampton-roads-01.jpg
+norfolk-scope-outside-the-arena-postcards-from-hampton-roads-02.jpg
+
 					
 Reaching For A Dream	Leslie Hartig & Lisa Edwards	Merrill Lynch		unknown	
 					
@@ -1056,10 +1070,13 @@ Spectrum	Mike Wedner	Norshipco		unknown
 350- Spectrum-mermaid-MISSING-DONTUSE.jpg
 					
 Spirit of the Sapphire	Angie Thomas	Sapphire Creations		unknown	
+spirit-of-the-sapphire-mermaid-angie-thomas-MISSING-DONTUSE.jpg
 					
 Sue Nami	Leesa Wheeler	Hambright Calcagno & Downing		unknown	
 					
-The Golden Tourist	Lorraine Fink/Martha Thrasher	Norfolk International Airport Authority	Scope Plaza fountain	unknown	
+The Golden Tourist	Lorraine Fink/Martha Thrasher	Norfolk International Airport Authority	Scope Plaza fountain	unknown
+norfolk-international-airport-scope-plaza-fountain-the-golden-tourist-mermaid-MISSING-DONTUSE.jpg
+
 					
 Wavey Mermaid	Adrianne Shepard/Tabb High School	Norfolk Waterside Marriott	The Marriott in Norfolk	unknown	
 					
@@ -1189,6 +1206,7 @@ Originally know as Life. Celebrated Daily, she was donated to the school by Norf
 
 Miss Liberty
 Empire Machinery & Supply Corporation Mascot
+miss-liberty-mermaid-empire-machinery-and-supply-corporation-mascot.jpg
 
 
 A School of Fish
@@ -1291,8 +1309,8 @@ Norfolk, VA
 http://exploremonticellovillage.blogspot.com/
 
 <ul>
-  <li><a href="https://picasaweb.google.com/lh/albumMap?uname=mrsmulcahy&aid=5325846353868799681#map
-  <li><a href="http://ww2.odu.edu/al/arted/studentportfolios/s_thornton/0015%20COMMUNITY.html">Community Involvement</a>
+  <li><a href="https://picasaweb.google.com/lh/albumMap?uname=mrsmulcahy&aid=5325846353868799681#map"><b>Mermaid Hunting</b> via aye_m_blessed on Picasa Web Albums</a></li>
+  <li><a href="http://ww2.odu.edu/al/arted/studentportfolios/s_thornton/0015%20COMMUNITY.html">Community Involvement</a></li>
   <li><a href="http://saintmaryshome.org/making-mermaid-magic/">Making Mermaid Magic</a></cite></li>
   <li><a href="http://jsfiddle.net/jalbertbowdenii/4Y3JF/5/">
 </ul>
