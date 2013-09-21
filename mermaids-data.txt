@@ -120,7 +120,22 @@ https://docs.google.com/spreadsheet/ccc?key=0AvWC8QOgiwjzdFViUFc0OGYybnhKazYwbHF
 36.84542, -76.28554 810 Union Street  
 
 36.84757, -76.29033 236 East Plume Street Norfolk, VA 23510-1726 HR Shipping Association
-36.84731, -76.29123 201 East Plume Street. Norfolk, VA 23510 Decker Building
+
+
+The Jewel Of Norfolk
+36.84731, -76.29123
+201 East Plume Street
+Norfolk, VA 23510
+Decker Building
+Bess Decker
+Decker, Cardon, Weintraub and Neskis
+the-jewel-of-norfolk-201-east-plume-street-decker-building-2nd-floor-balcony-01.jpg
+the-jewel-of-norfolk-201-east-plume-street-decker-building-2nd-floor-balcony-02-a.jpg
+the-jewel-of-norfolk-201-east-plume-street-decker-building-2nd-floor-balcony-02-b.jpg
+
+
+
+
 36.84810, -76.29065 215 City Hall Avenue (Monticello Arcade)
 36.85032, -76.28966 317 Monticello Ave Norfolk, VA 23510-2407 (Norva)
 36.85387, -76.28533 215 East Brambleton Avenue Norfolk, VA 23510 (Scope)
@@ -131,44 +146,76 @@ https://docs.google.com/spreadsheet/ccc?key=0AvWC8QOgiwjzdFViUFc0OGYybnhKazYwbHF
 36.85102, -76.29222 200 College Place, Norfolk, VA 23510 The Heritage at Freemason Harbour Apartments 
 36.85174, -76.29571 355 West Freemason Street Norfolk, VA 23510  Shriver and Holland Architects 
 
-
+Donna Marie
 
 Garden Tempest - overlooking the Cape Henry bike trail this simple yet elegant lady enjoys a peaceful existence in a cute neighborhood near the beach.
-Picasso's Beauty - This mysterious maiden is tucked away near the FBI building at Virginia Eye Associates. She is really spectacular- a favorite of the day!
-Mer Majesty - Her highness is a rare concrete mermaid but she carries her weight well. Her tail is inset with a tile mosaic and she dons several types of sea shells. She is also the only mermaid in Sandbridge surrounded by more than a dozen Promise Dolphins.
 
-
-
-This bright and colorful mermaid on parade is located outside of the Virginia Oncology Associates building near Norfolk International Airport.
-The Sea Shimmer mermaid, located outside of Ghent Physical Therapy on W. 21st Street.
-The Ocean Patina Mermaid, on display at Waterside. 
-A view of the Lola mermaid, on display near Waterside and Town Point Park in Downtown Norfolk. 
-I spotted this "Scales of Justice" mermaid on the outside of one of the stories of the Norfolk World Trade Center building. 
-This mermaid is found inside the Colonial Place neighborhood in Norfolk.
-This mermaid is located outside of The Williams School in Ghent. 
-This mermaid is named the "Jealous Mistress" and is located outside of the City Centre building at 215 City Hall Ave. in Downtown Norfolk.
+Jealous Mistress	This mermaid is named the "Jealous Mistress" and is located outside of the City Centre building at 215 City Hall Ave. in Downtown Norfolk.
 357- Jealous Mistress-mermaid-MISSING-DONTUSE.jpg
 
-This mermaid was sponsored by Marine Hydraulics International, Inc. (MHI) and is located outside of their Norfolk facility near the Midtown Tunnel.
+Lola	A view of the Lola mermaid, on display near Waterside and Town Point Park in Downtown Norfolk. 
 
+Mer Majesty - Her highness is a rare concrete mermaid but she carries her weight well. Her tail is inset with a tile mosaic and she dons several types of sea shells. She is also the only mermaid in Sandbridge surrounded by more than a dozen Promise Dolphins.
+
+The Ocean Patina Mermaid, on display at Waterside. 
+
+Picasso's Beauty - This mysterious maiden is tucked away near the FBI building at Virginia Eye Associates. She is really spectacular- a favorite of the day!
+
+This bright and colorful mermaid on parade is located outside of the Virginia Oncology Associates building near Norfolk International Airport.
+
+
+
+
+I spotted this "Scales of Justice" mermaid on the outside of one of the stories of the Norfolk World Trade Center building.
+
+
+
+This mermaid is located outside of The Williams School in Ghent. 
+
+
+
+
+543 East Indian River Road
+Marine Hydraulics International Norfolk Facility
+This mermaid was sponsored by Marine Hydraulics International, Inc. (MHI) and is located outside of their Norfolk facility near the Midtown Tunnel.
+marine-hydraulics-international-mermaid-mhi-norfolk-facility-near-midtown-tunnel-01.jpg
 
 
 
 http://maps.google.com/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=111287579425408786815.000467a26668ec3a8c11c
 
-Donna Marie
+1950 Fish Dish	758 W. 22nd Street - Rowena's
+A Rising Community	9640 Granby Street - Norfolk City Library
+A School of Fish	5429 Tidewater Drive - Norfolk Collegiate Lower School
+Accidental Tourist		
+Angel of Mercy	TCC	
+Aubrey Alexis - Aubrica	5901 VB Boulevard - U-Save - being remodeled as of 10/7/08 - they remodel her every year based on the NY fashion show
+
+Beauty of the Sea	865 Military Highway, Econo Lodge - under repair 10/7/08
+
+Beauty Underneath		
+
+Belinda	
+438 Boush Street
+Clark's Art Glass
+
+By The Sea	Waterside Drive, Sheraton Fountain
+
+By The Stars	811 Redgate, Discovery Care Center
+
+
+Courtney
 	
-Maid For Life
+Dominique	
+
 	
 Faith
 	
-1950s Fish Dish
+
 	
-By the Stars
+
 	
-Courtney
-	
-Dominique
+
 	
 Low Tide
 	
@@ -178,127 +225,307 @@ Ocean Patina
 	
 Scales Of Justice
 	
-Maid to Cruise
-relocated due to construction
-relocated due to construction
+
 	
 Ship Ahoy
 	
 Flower Garden
+
+
+Aubrica
+
+Accedental Tourist
+@36.813457,-76.101319
 	
+A School of Fish
+
+Blue Mirror Mermaid
+
+By the Sea	
+
 Belinda
 	
-Mirror Mosaic
+
 	
-Oceana
+
 	
-Gem From the Sea
+
 	
-Full Circle
+
 	
-Jestacular
+
 	
-Maid in Voyage
+
 	
-The Jewel of Norfolk
-	
-Lola
-relocated due to construction
-relocated due to construction
-	
-Mei Madeline
-	
-Princess Azalea
+
+
+
+
+Evie
 	
 Flight
+
+Full Circle
+
+Gem From the Sea
 	
 Gliding Through the Bay
 	
-Mujeres del Mar
+
 	
-Blue Mirror Mermaid
+
+Hats Off to the Navy	160 E. VB Blvd. - Harrison Opera House	
+
+Heart of the Sea		
+
+Hope	1309 Kempsville Road - Lake Taylor Hospital	x
+
+Jealous Mistress	211 City Hall Avenue	x
+
+Jestacular	123 Granby Street	x
+
+Jester Mermaid	110 E. Olney
+
+
+
+Jewel of the Sea	539 W. 21st Street - under repair 10/07/08
+
+Jewel, The Bar Maiden	4300 Colley Avenue
+
+Justicalthing	Dunmar Moving, 130 S. Military Hwy - NOT FOUND 10/7/08	
+
 	
-Sirena At Play In Willoughby
-She has a completely new facade and looks nothing like her original
-She has a completely new facade and looks nothing like her original
+
 	
-Nautical Mermaid
+
 	
-A Rising Community
-	
-Mirror Mosaic
-	
-Maid For the Fleet
-	
-Nora Folk
-	
+
+
+Jestacular
+
 Jester Mermaid
 	
 Jewel the Bar Maiden
+
+The Jewel of Norfolk
+
+
+Lady Anne	Mayflower Road and Goswold Avenue, Norfolk	x
+
+Lady of the Links		
+
+Lea Pard	1145 Bolling Ave. - Larchmount Elementary School (ODU)	x
+
+Leading the Way	809 E. Ocean View - Judy Booone Realty	x
+
+
+Lighted Mermaid		
+
+Liquid Energy	111 Ingleside Road, Industrial Park	x
+
+Literacy	150 W. Brambleton Avenue	x
+
+Lola	Spirit of Norfolk entrance	x
+
+Low Tide	Back of Joe's Crabshack, Waterside
+
+Lady of Little Creek
+@36.916746,-76.191747
 	
+Lola	relocated due to construction
+
 Lea Pard
+
+Literacy
+
+Liquid Energy
+
+
+Maid For Life
+
+Maid for the Fleet	Naval Station Norfolk
+
+Maid In Voyage	123 Granby Street
+
+Maid of Lobster		
+
+Maid to Cruise	Nauticus, Front
+Maid to Cruise	relocated due to construction
+
+Media Mermaid		
+
+Meimadeline	Chinese Pagoda and Nauticus	
+Mei Madeline
+
+
+Memory	Stockley Gardens	
+
+Mermaid of Justice	Norfolk Circuit Court	@36.845289,-76.286370
+
+Mermaid de Leche
+
+Mer-Majesty (va beach)
+@36.718896,-75.933935
+
+MerMax II inside Max and Erma's
+@36.843868,-76.132207
+
+
+
+
+MHI Mermaid
+
+Mirror Mosaic	1330 E. Ocean View Ave. - Best Western Holiday Sands
+
+Mirror Mosaic II	555 Main Street	@37.267137,-76.020284
+
+Mirrored Mosaic	403 Boush Street - Bank of the Commonwealth	x
+
+Miss Definitely Downtown
+
+Miss Liberty
+
+Miss NATO	1511 Willow Wood Road - Williard Model School	x
+
+Miss Virginia Vine	1800 Monticello Ave - Hope House Thrift Shop	x
+
+Moo Maid		1800 Monticello Ave - Hope House Thrift Shop	x
+
+Ms. Liberty	Empire Machinery Corporation, 3550 VB Blvd.	x
+
+Mujeres Del Mar	300 W. Freemason Street -Frye Properties	x
+
+Music Mosaic	Norva, Monticello Avenue	x
+
+Mymphork	Downtown	
+
+Mystique	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Nautical Mermaid
+
+Nora Folk
+
+
+Oceana
+
+
+
+Palace Prince Beatrice
+
+	
+A Rising Community
+	
+Sirena At Play In Willoughby	She has a completely new facade and looks nothing like her original
 	
 Sirene de Mission
 	
-Miss Liberty
-	
-Liquid Energy
-	
-A School of Fish
-	
-Miss NATO
-	
-Palace Prince Beatrice
-	
-Sea Shimmer
-	
-Moo Maid
-Missing from where she was spotted
-Missing from where she was spotted
-	
-Miss Virginia Vine
+
 	
 Seasonal Mermaid
-	
-Evie
-	
-Music Mosaic
-	
+
 Shamrock
 	
-Literacy
-	
 Siren
+Scales of Justice	World Trade Center	x
+
+
+
+Seagoddess and Her Children	Colonial Place	
+
+Seasonal Maid	Norfolk Botanical Gardens	x
+
+Seemaiden	241 W. York Street - Gilbert Optical	
+
+Shamrock	7510 Granby Street - Perry Building	x
+
+She Sells Seashells		
+
+She's Every Ocean	Downtown
+330- She's Every Ocean-mermaid-MISSING-DONTUSE.jpg	
+
+Shellina	Ghent	
+321- Shellina-mermaid-MISSING-DONTUSE.jpg
+321- Shellina-MISSING.jpg
+
+
+
+Ships Ahoy	236 E. Plume Street - Hampton Roads Shipping Assoc.	x
+
+Silver Mermaid	Hampton Boulevard and 21st Street	
+
+Siren	7400 Granby Street	x
+7400-granby-street-in-front-of-bonnie-bonnie-and-horowitz-dental-siren-mermaid-DONTUSE.jpg
+siren-mermaid-DONTUSE.jpg
+7400-granby-street-drive-siren-mermaid-DONTUSE.jpg
+
+Sirena at Play in Willoughby	4th View at Ocean View	
+
+Soul Session	Miller Oil Co. City Hall Avenue	
+city-hall-avenue-miller-oil-co.-soul-session-mermaid-
+east-city-hall-avenue-on-miller-oil-office-building-soul-session-mermid.jpg
+
+
+Spectrum Gold		
+
+Spirit	Entrance Norfolk Intl Airport	
+
+Spirit of the Sapphire	Peninsula	
+
+Spoken Word	Corner of St. Pauls and Brambleton	
+
+Star	8720 Granby Street - Northside Middle School	x
+
+String of Pearls	Ghent	
+
+Sue-Nami		
+
+Sukey's Mermaid	1585 Wesleyan Drive - Norfolk Academy
+
+
 	
-Toga
+
 	
 Williams' School Mermaid
 	
-MHI Mermaid
+
 	
-Miss Definitely Downtown
+
 	
-Her Favorite Port
-renamed Elizabeth
-renamed Elizabeth
+Her Favorite Port	renamed Elizabeth
+
 	
-Aubrica
 	
-Techno Mermaid
-inside- not public
-inside- not public
+Techno Mermaid	inside- not public
+Reflections of the Soul
+
+Silver Mermaid	not public- vandalized and awaiting repair
+
+Sukey's Mermaid
+@36.872815,-76.193117
 	
-Silver Mermaid
-not public- vandalized and awaiting repair
-not public- vandalized and awaiting repair
+
 	
-Mermaid de Leche
-	
-By the Sea
+
 	
 Elizabeth
 	
-Reflections of the Soul
+
 	
 Thumbelina
 36.868772,-76.304547
@@ -308,17 +535,14 @@ Plated Mermaid
 36.850117,-76.290583
 Hope
 @36.866605,-76.206188
-Lady of Little Creek
-@36.916746,-76.191747
 
-Sukey's Mermaid
-@36.872815,-76.193117
+
+
 
 Rainbow (va beach)
 @36.832457,-76.129879
 
-Accedental Tourist
-@36.813457,-76.101319
+
 
 Fresh From the Sea (va beach)
 @36.813457,-76.101319
@@ -332,8 +556,7 @@ Horizons (va beach)
 She Sells Sea Shells (eastern shore)
 @37.267141,-76.020332
 
-Mirror Mosaic II
-@37.267137,-76.020284
+
 
 Celebrating The Arts (eastern shore)
 @37.267545,-76.017577
@@ -342,11 +565,7 @@ Celebrating The Arts (eastern shore)
 Healing Hands Mosaic (va beach)
 @36.852359,-76.026826
 
-Mer-Majesty (va beach)
-@36.718896,-75.933935
 
-MerMax II inside Max and Erma's
-@36.843868,-76.132207
 	
 Star
 @36.936644,-76.262648
@@ -363,8 +582,7 @@ Norfolk, Gateway to the Sea
 *Beauty of the Sea
 @36.853171,-76.210340
 	
-*Mermaid of Justice
-@36.845289,-76.286370
+
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -380,33 +598,8 @@ http://www.flickr.com/photos/daseye/5002153482/
 http://norfolkmermaids.blogspot.com/
 
 
-https://spreadsheets.google.com/pub?key=p_vGJ3Px3-rF2xT2Up7c2KQ
-Mermaid Sightings
-Spotted	Title	Location
+https://spreadsheets.google.com/pub?key=p_vGJ3Px3-rF2xT2Up7c2KQ">Mermaid Sightings
 
-10/07/08	1950 Fish Dish	758 W. 22nd Street - Rowena's	x
-
-10/04/08	A Rising Community	9640 Granby Street - Norfolk City Library	x
-
-10/04/08	A School of Fish	5429 Tidewater Drive - Norfolk Collegiate Lower School	x
-
-Accidental Tourist		
-
-Angel of Mercy	TCC	
-
-10/27/08	Aubrey Alexis - Aubrica	5901 VB Boulevard - U-Save - being remodeled as of 10/7/08 - they remodel her every year based on the NY fashion show	x
-
->>>	Beauty of the Sea	865 Military Highway, Econo Lodge - under repair 10/7/08	x
-
-Beauty Underneath		
-
-09/20/08	Belinda	438 Boush Street, Clark's Art Glass	x
-	
-
-
-09/25/08	By The Sea	Waterside Drive, Sheraton Fountain	x
-
-10/07/08	By The Stars	811 Redgate, Discovery Care Center	x
 
 Calypso		
 
@@ -441,86 +634,15 @@ Fresh From the Sea	Farm Fresh, Chimney Hill
 
 10/04/08	Full Circle	Plume & Commercial Place - BB&T Courtyard	x
 
-09/20/08	Gem From the Sea	200 Granby Street - Fed. Bldg.	x
+09/20/08	Gem From the Sea	200 Granby Street - Fed. Bldg.
+200-granby-street-federal-building-gem-from-the-sea-mermaid-LOCATED-ACROSS-FROM-HER-SISTER-definitely-downtown-mermaid-DONTUSE.jpg
+200-granby-street-federal-building-gem-from-the-sea-mermaid-LOCATED-ACROSS-FROM-HER-SISTER-definitely-downtown-mermaid-DONTUSE-02.jpg
 
-10/01/08	Gliding Through the Bay	Ocean View Visitors Center	x
-
-Hats Off to the Navy	160 E. VB Blvd. - Harrison Opera House	
-
-Heart of the Sea		
-
-10/06/08	Hope	1309 Kempsville Road - Lake Taylor Hospital	x
-
-10/07/08	Jealous Mistress	211 City Hall Avenue	x
-
-09/20/08	Jestacular	123 Granby Street	x
-
-10/07/08	Jester Mermaid	110 E. Olney	x
-
-10/04/08	Jewel of Norfolk	201 Plume Street - Decker	x
-
->>>	Jewel of the Sea	539 W. 21st Street - under repair 10/07/08	?
-
-10/07/08	Jewel, The Bar Maiden	4300 Colley Avenue	x
-
->>>	Justicalthing	Dunmar Moving, 130 S. Military Hwy - NOT FOUND 10/7/08	?
-
-10/14/2008	Lady Anne	Mayflower Road and Goswold Avenue, Norfolk	x
-
-Lady of the Links		
-
-10/07/08	Lea Pard	1145 Bolling Ave. - Larchmount Elementary School (ODU)	x
-
-10/04/08	Leading the Way	809 E. Ocean View - Judy Booone Realty	x
+Gliding Through the Bay	Ocean View Visitors Center	x
 
 
-Lighted Mermaid		
 
-10/07/08	Liquid Energy	111 Ingleside Road, Industrial Park	x
-
-10/22/08	Literacy	150 W. Brambleton Avenue	x
-
-09/20/08	Lola	Spirit of Norfolk entrance	x
-
-10/04/08	Low Tide	Back of Joe's Crabshack, Waterside	x
-
-10/02/08	Maid for the Fleet	Naval Station Norfolk	x
-
-09/20/08	Maid In Voyage	123 Granby Street	x
-
-Maid of Lobster		
-
-09/20/08	Maid to Cruise	Nauticus, Front	x
-
-Media Mermaid		
-
-Meimadeline	Chinese Pagoda and Nauticus	
-
-Memory	Stockley Gardens	
-
-09/20/08	Mermaid of Justice	Norfolk Circuit Court	x
-
-10/04/08	Mirror Mosaic	1330 E. Ocean View Ave. - Best Western Holiday Sands	x
-
-Mirror Mosaic II	555 Main Street	
-
-09/20/08	Mirrored Mosaic	403 Boush Street - Bank of the Commonwealth	x
-
-11/05/08	Miss NATO	1511 Willow Wood Road - Williard Model School	x
-
-10/07/08	Miss Virginia Vine	1800 Monticello Ave - Hope House Thrift Shop	x
-
-10/07/08	Moomaid	1800 Monticello Ave - Hope House Thrift Shop	x
-
-10/07/08	Ms. Liberty	Empire Machinery Corporation, 3550 VB Blvd.	x
-
-09/20/08	Mujeres Del Mar	300 W. Freemason Street -Frye Properties	x
-
-10/04/08	Music Mosaic	Norva, Monticello Avenue	x
-
-Mymphork	Downtown	
-
-Mystique		
+	
 
 10/04/08	Nautical Mermaid	4th View and Ocean View Avenue - Pier
 ocean-view-fishing-pier-01.jpg
@@ -534,86 +656,36 @@ Nebula
 
 Norfok Mace	Inside Chrysler Museum of Art	
 
-09/30/08	Nora Folk	Chrysler Museum of Art	x
+Nora Folk	Chrysler Museum of Art	x
 
-10/08/08	Ocarina	One Fish Two Fish dock, across water	x
+Ocarina	One Fish Two Fish dock, across water	x
 
-10/04/08	Ocean Patina	Harbor, 333 Waterside Drive	x
+Ocean Patina	Harbor, 333 Waterside Drive	x
 
-09/20/08	Oceana	450 Boush Street	x
+Oceana	450 Boush Street	x
 
-10/07/08	Palace Princess Beatrice	300 W. 21st Street	x
+Palace Princess Beatrice	300 W. 21st Street	x
 
 Penny		
 
-Picture Frame Mermaid		
 
 09/20/08	Plated Mermaid	TCC near MacArthur Mall	x
 
 Postcards from Hampton Roads	Outside Scope	
 
-10/04/08	Princess Azalea	Nauticus, Fountain	x
 
-10/02/08	Rainbow Mermaid	VA Oncology	x
+
+Rainbow Mermaid	VA Oncology	x
 
 Reach for the Stars	VB	
 
-Reaching for a Dream	Waterside Drive	
+	
 
 Reflections of the Soul		
 
 	
 
-10/04/08	Scales of Justice	World Trade Center	x
-
-09/27/08	Sea Shimmer	Ghent Physical Therapy, 21st Street	x
-
-Seagoddess and Her Children	Colonial Place	
-
-10/08/08	Seasonal Maid	Norfolk Botanical Gardens	x
-
-Seemaiden	241 W. York Street - Gilbert Optical	
-
-10/06/08	Shamrock	7510 Granby Street - Perry Building	x
-
-She Sells Seashells		
-
-She's Every Ocean	Downtown
-330- She's Every Ocean-mermaid-MISSING-DONTUSE.jpg	
-
-Shellina	Ghent	
-321- Shellina-mermaid-MISSING-DONTUSE.jpg
-321- Shellina-MISSING.jpg
-
-
-
-10/07/08	Ships Ahoy	236 E. Plume Street - Hampton Roads Shipping Assoc.	x
-
-Silver Mermaid	Hampton Boulevard and 21st Street	
-
-10/06/08	Siren	7400 Granby Street	x
-7400-granby-street-in-front-of-bonnie-bonnie-and-horowitz-dental-siren-mermaid-DONTUSE.jpg
-siren-mermaid-DONTUSE.jpg
-
-Sirena at Play in Willoughby	4th View at Ocean View	
-
-10/02/08	Soul Session	Miller Oil Co. City Hall Avenue	x
-
-Spectrum Gold		
-
-Spirit	Entrance Norfolk Intl Airport	
-
-Spirit of the Sapphire	Peninsula	
-
-Spoken Word	Corner of St. Pauls and Brambleton	
-
-10/09/08	Star	8720 Granby Street - Northside Middle School	x
-
-String of Pearls	Ghent	
-
-Sue-Nami		
-
-10/9/2008	Sukey's Mermaid	1585 Wesleyan Drive - Norfolk Academy	x
+	x
 
 Techno Mermaid	740 Duke Street, InfiNet	
 
@@ -625,7 +697,6 @@ Thumbelina	1122 W. Princess Anne Road
 
 Timeless Elegance	North of Downtown	
 
-10/14/08	Toga	Berkley Avenue and Main Street	x
 
 07/09/09	Toola	Grand Rental, 3419 Colley Avenue, Norfolk	
 
@@ -643,9 +714,11 @@ Timeless Elegance	North of Downtown
 
 Wavey Mermaid		
 
-Yuma Yah	1139 Charlotte Street - Hunton YMCA	
+Yuma Yah	1139 Charlotte Street - Hunton YMCA
+1139-charlotte-street-hunton-ymca-viewable-from-tidewater-drive-yuma-yah-mermaid-
 
-543 E. Indian River Rd. Nfk - Marine Hydraulics Int'l	
+
+
 
 Monticello & 18th	
 
@@ -729,7 +802,7 @@ Belinda	Martha Gibson		Clark's Art Glass Studio on Boush St	found
 Candy Bar	Ben Teague	H. Blount Hunter Retail & Real Estate Research Company	Macarthur Center- 1st floor nearest the North parking garage area	found	
 					
 37.2738, -76.019 Celebrating The Arts	Clelia Sheppard	Bank of America	Palace Theater- 305 Mason Avenue, Cape Charles, VA	found	
-NAME PIX THIS YO!! celebrating-the-arts-mermaid-palace-theater-305-mason-avenue-cape-charles-virginia-
+NAME PIX THIS YO!! 
 celebrating-the-arts-mermaid-severely-damaged-in-picture.jpg" alt="Celebrating the Arts Mermaid Severely Vandalised (I'm assuming prior to moving to the Eastern Shore)" />
 
 
@@ -743,7 +816,10 @@ celebrating-the-arts-mermaid-severely-damaged-in-picture.jpg" alt="Celebrating t
 Donna Marie		36.92483, -76.19147 Taylor's Landing Marina (Surfrider)
 			36.9307, -76.192 Vinings's Landing Marina in Oceanview	found	
 					
-36.85346, -76.23267 Elizabeth	Georgia Mason	Tidewater Women's Health Clinic	In front of Tidewater Women's Health Clinic on Norfolk Sq	found	
+36.85346, -76.23267 Elizabeth	Georgia Mason	Tidewater Women's Health Clinic	In front of Tidewater Women's Health Clinic on Norfolk Sq
+elizabeth-mermaid-in-front-of-tidewater-womens-health-clinic-by-georgia-mason-01.jpg
+
+	
 					
 36.86124, -76.30066 Evey	Georgia Mason	Eastern Virginia Medical School	Lewis Hall, EVMS	found	
 					
@@ -752,15 +828,22 @@ Evelyn Ott's School of Dance- Little Creek Rd	found
 7921 Harold Street
 Norfolk, VA 23518
 NOT ADDED
+evelyn-ott-school-of-dance-madam-evie-mermaid-DONTUSE.jpg
+evelyn-otts-school-of-dance-evie-mermaid-night.jpg
 
 36.898, -76.201 Faith	Chris Alexander		Lake Taylor Hospital's atrium	found	
+lake-taylor-hospital-atrium-faith-mermaid-
+
 					
-36.85224, -76.29578 Flight	Ken Wright	Shriver & Holland	355 West Freemason Ave.	found	
+36.85224, -76.29578 Flight	Ken Wright	Shriver & Holland	355 West Freemason Ave.	found
+flight-mermaid-
 					
 36.850790, -76.292665 Flower Garden	Myke Irving	Nancy Chandler Associates	Heritage at Freemason	200 College Place
-Norfolk, VA 23510
-(757) 623-2200 found	
-					
+Norfolk, VA 23510 (757) 623-2200 found
+200-college-place-heritage-at-freemason-harbour-flower-garden-mermaid.jpg
+
+
+			
 36.813648, -76.099696 Fresh From The Sea	Kim Mayo	Farm Fresh	Farm Fresh - 
 858 Chimney Hill Shopping Center	found	
 799 Chimney Hill Shopping Center, Virginia Beach, VA
@@ -794,16 +877,24 @@ Lady Ann	Georgia Mason	Colonial Place	Colonial Place - Norfolk	found
 					
 36.918110, -76.192723 Lady Of Little Creek			Little Creek & Shore Dr	found	
 					
-36.8904, -76.3029 Lea Pard	Georgia Mason	Larchmont Elementry School	Jaguar in front of Larchmont Elementry	found	
+36.8904, -76.3029 Lea Pard	Georgia Mason	Larchmont Elementry School	Jaguar in front of Larchmont Elementry	found
+larchmont-elementary-school-jaguar-mermaid-georgia-mason-DONTUSE.jpg
+
 					
-Life. Celebrated Daily	Jason Berry/Tabb High School	Spirit of Norfolk	The Williams School- redecorated	found	
+Life. Celebrated Daily	Jason Berry/Tabb High School	Spirit of Norfolk	The Williams School- redecorated	found
+the-williams-school-life-celebrated-daily-mermaid-
 					
 36.85725, -76.24188 Liquid Energy	Pamela Pine Winslow	Paxton Company	1111 Ingleside Dr. (attached to building)	found	
+111-ingleside-drive-attached-to-building-liquid-energy-mermaid-
 					
 36.85488, -76.28992
- Literacy	Deborah T. Small	The Virginian-Pilot	150 West Brambleton Ave.	found	
+ Literacy	Deborah T. Small	The Virginian-Pilot	150 West Brambleton Ave.	found
+150-west-brambleton-avenue-the-virgininian-pilot-literacy-mermaid.jpg
+
 					
 Lola	Wendy Farnham	Cosmopolitan Club and Dominion Capital Managers	Town Point Park - Otter Berth	found	
+town-point-park-otter-berth-lola-mermaid-
+
 					
 36.84480, -76.29075 Low Tide	Chris Alexander	Joe's Crab Shack	333 Waterside Drive	found
 low-tide-behind-eat-at-joes-waterside-01.jpg
@@ -812,20 +903,32 @@ low-tide-behind-eat-at-joes-waterside-03.jpg
 joes-crab-shack-outside-waterside-low-tide-at-waterside-mermaid-DONUSE.jpg
 					
 36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr #300 Norfolk, VA 23502 found
-5900-lake-wright-drive-maid-for-life-mermaid-virginia-oncology-associates-SCREENSHOT.png
-	
+5900-lake-wright-drive-virginia-oncology-associates-maid-for-life-mermaid-georgia-mason-SCREENSHOT.png
+5900-lake-wright-drive-virginia-oncology-associates-maid-for-life-mermaid-georgia-mason-NOTYOURS.jpg	
 					
-Maid For the Fleet	Georgia Mason	Naval Station Norfolk	Gilbert St. Norfolk Naval Base	found	
+Maid For the Fleet	Georgia Mason	Naval Station Norfolk	Gilbert St. Norfolk Naval Base	found
+ITHINK-gilber-street-norfolk-naval-base-maid-for-the-fleets-mermaid-
+Maid for the Fleets
+Latitude	36.947649° N
+Longitude	76.309010° W
+gilbert-street-naval-station-norfolk-maid-for-the-fleet-mermaid-georgia-mason-located-in-flower-bed-between-2-parking-lots-DONTUSE.jpg
+gilbert-street-naval-station-norfolk-maid-for-the-fleet-mermaid-georgia-mason-located-in-flower-bed-between-2-parking-lots-DONTUSE-02.jpg
+
+36.84664, -76.29189 Maid In Voyage	Mike Bell	Norfolk OpSail 2000	124 Main St.	found
+124-main-street-norfolk-opsail-2000-maid-in-voyage-mermaid-mike-bell
+
 					
-36.84664, -76.29189 Maid In Voyage	Mike Bell	Norfolk OpSail 2000	124 Main St.	found	
+Maid To Cruise	Georgia Mason	Clark Nexsen	At the entrance to Nauticus from Town Point Park	found\
+nauticus-entrance-at-town-point-park-maid-to-cruise-mermaid-georgia-mason-
+
 					
-Maid To Cruise	Georgia Mason	Clark Nexsen	At the entrance to Naticus from Town Point Park	found	
+36.9538, -76.2510 Marina	Georgia Mason	Pretlow Library	Pretlow Branch Library	found
 					
-36.9538, -76.2510 Marina	Georgia Mason	Pretlow Library	Pretlow Branch Library	found	
+Mei Madeline	Nancy Cockman	Evergreen America Corporation	near Chinese Pagoda and Nauticus	found
+
 					
-Mei Madeline	Nancy Cockman	Evergreen America Corporation	near Chinese Pagoda and Nauticus	found	
-					
-Mer Majesty			Sandfiddler Rd Virginia Beach	found	
+Mer Majesty			Sandfiddler Rd Virginia Beach	found
+sandfiddler-road-virginia-beach-mer-majesty-mermaid-
 					
 36.8510, -76.2904 Mermaid de Leche	Martha Gibson	aLatte Café	aLatte Café's front window at 321 Granby St.	found
 granby-street-alatte-cafe-mermaid-de-leche-DONTUSE-01.jpg
@@ -886,13 +989,23 @@ waterside-ocean-patina-mermaid-PREVIOUSLY-DAMAGED-FIXED-IN-PIX-DONTUSE.jpg
 					
 36.85279, -76.29114 Oceana	Ryan Brinkley	Bank of the Commonwealth	403 Boush St. - next to bank	found	
 					
-36.868395, -76.288432 Palace Princess Beatrice	Deborah T. Small	The Palace Shops	21st Street and Llewellyn Avenue	found	
+36.868395, -76.288432 Palace Princess Beatrice	Deborah T. Small	The Palace Shops	21st Street and Llewellyn Avenue	found
+21st-street-and-llewelyn-avenue-palace-princess-beatrice-in-front-of-the-palace-shops-300-west-21st-street-01.jpg
+21st-street-and-llewelyn-avenue-palace-princess-beatrice-in-front-of-the-palace-shops-300-west-21st-street-02.jpg
+21st-street-and-llewelyn-avenue-palace-princess-beatrice-in-front-of-the-palace-shops-300-west-21st-street-03.jpg
+21st-street-and-llewelyn-avenue-palace-shoppes-in-ghent-entrance-palace-princess-beatrice-mermaid.jpg
+
+
+
 					
 36.8428, -76.214 Picasso's Beauty			Virginia Eye Consultants- 241 Corporate Blvd	found	
 					
 36.849962, -76.290492 Plated Mermaid	Ed Gibbs	Tidewater Community College	Corner of College Dr. and Granby St.	found	
 					
-Princess Azalea	Bess Decker	Peter Decker, Jr. & Howard Webb	Nauticus - Third floor balcony	found	
+Princess Azalea	Bess Decker	Peter Decker, Jr. & Howard Webb	Nauticus - Third floor balcony	found
+nauticus-fountain-princess-azalea-DONTUSE-01.jpg
+nauticus-fountain-princess-azalea-DONTUSE-02.jpg
+
 					
 Rainbow	Mary Anne Gamboa	MacArthur Center Mall	Gerald Yagens Building/ VA Beach	found	
 					
@@ -900,7 +1013,7 @@ Reflections of the Soul	Bridget Watson, Virginia Butler & Heather Kyle	CDR and M
 					
 Scales Of Justice	Stephanie Claire	Vandeventer Black LLP	Outside Balcony Of Norfolk WTC	found	
 					
-Sea Shimmer	Sherry L. Hodges	The Therapy Network	Ghent Physical Therapy W. 21st St.	found	
+
 					
 36.906151, -76.208964 Seasonal Maid	Amy Tardy/Tabb High School	Norfolk Botanical Gardens	Norfolk Botanical Gardens, 6700 Azalea Garden Rd.	found	
 					
@@ -910,7 +1023,12 @@ Sea Shimmer	Sherry L. Hodges	The Therapy Network	Ghent Physical Therapy W. 21st 
 					
 36.84711, -76.29040 Ships Ahoy	Chris Alexander	Hampton Roads Shipping Association	236 Plume St	found	
 					
-36.913184, -76.273160 Siren	Michele Barnes	Dr. Marshall Bonnie	7400 Granby St.	found	
+36.913184, -76.273160 Siren	Michele Barnes	Dr. Marshall Bonnie	7400 Granby St.	found
+7400-granby-street-drive-siren-mermaid-DONTUSE.jpg
+7400-granby-street-and-cromwell-parkway-corner-siren-mermaid-01.jpg
+7400-granby-street-and-cromwell-parkway-corner-siren-mermaid-02.jpg
+
+
 					
 Sirena At Play in Willoughby	Alba Bragoli/ revamped by Georgia Mason	Willoughby Civic League	Pretlow Branch Library	found	
 					
@@ -918,7 +1036,8 @@ Sirene de Mission		DePaul Medical Center	Doctor was on median on Granby st in fr
 					
 36.845963, -76.281906 Soul Session	Matthew Dancigers	Heilig, McKenry, Fraim & Lolla	Miller Oil Company - 1000 East City Hall Ave.	found	
 					
-Spirit (renamed "Hope")	Chris Alexander	Lynda B. Kennedy	Lake Taylor Hospital	found	
+Spirit (renamed "Hope")	Chris Alexander	Lynda B. Kennedy	Lake Taylor Hospital	found
+lake-taylor-hospital-spirit-mermaid-renamed-hope-mermaid-
 					
 36.8545, -76.2852 Spoken Word	Sharon Franklin/Public Housing Youth	NRHA	Corner of St. Pauls Blvd. and Brambleton Ave.	found
 352- Spoken Word-mermaid-MISSING-DONTUSE.jpg
@@ -928,7 +1047,7 @@ northside-middle-school-star-mermaid-DONTUSE.jpg
 					
 36.87593, -76.19096 Sukey's Mermaid	Georgia Mason	Norfolk Academy	1585 Wesleyan Dr. Norfolk	found	
 					
-36.84741, -76.29123 The Jewel Of Norfolk	Bess Decker	Decker, Cardon, Weintraub and Neskis	201 E. Plume St. - Decker Bldg.	found	
+
 					
 36.86857, -76.30440 Thumbilina	Children of W.H. Taylor Elementary	W.H. Taylor Elementary PTA	1122 W. Princess Anne Rd.	found	
 					
@@ -939,9 +1058,13 @@ norfolk-zoo-tiger-woods-mermaid-DONTUSE.jpg
 norfolk-zoo-tiger-woods-mermaid-fx.jpg
 norfolk-zoo-tiger-woods-mermaid-DONTUSE-01.jpg
 
+	
+
+
 
 					
-36.832847, -76.283175 Toga	Mary Anne Gamboa	Goodman & Company/Wilbanks, Smith and Thomas	Berkley Ave. and Main St.	found	
+36.832847, -76.283175 Toga	Mary Anne Gamboa	Goodman & Company/Wilbanks, Smith and Thomas	Berkley Ave. and Main St.	found
+berkley-avenue-and-main-street-near-norfolk-shipyward-toga-mermaid.jpg
 					
 36.84468, -76.29042 USS Wisconsin	Myke Irving	CH2M HILL	333 Waterside Drive (Inside, hanging above food court)	found	
 					
@@ -949,9 +1072,12 @@ norfolk-zoo-tiger-woods-mermaid-DONTUSE-01.jpg
 					
 Mirror Mosaic II		Harbor Group	Blue Heron Realty- Cape Charles Office	found/ not public	
 					
-Techno Mermaid	Ces Ochoa/Darlene Stoll	InfiNet	740 Duke St. - InfiNet building	found/ not public	
+Techno Mermaid	Ces Ochoa/Darlene Stoll	InfiNet	740 Duke St. - InfiNet building	found/ not public 
+infinet-building-secure-floor-techno-mermaid.jpg
+infinet-building-secure-floor-techno-mermaid-tail.jpg
 					
-36.873306, -76.301607 Silver Mermaid	Liz Greene	William E. Wood	Corner of Hampton Blvd. and 21st St.	found/ not public/ damaged	
+36.873306, -76.301607 Silver Mermaid	Liz Greene	William E. Wood	Corner of Hampton Blvd. and 21st St.	found/ not public/ damaged
+
 					
 Heart of the Sea	Sandra Singletary	F.O.R. kids, Inc.		not public	
 					
@@ -1011,6 +1137,7 @@ A New Horizon	Steven F. Morris	Lab One	Ships Cabin resteraunt- OV	unknown
 					
 Accidental Tourist	Myke Irving	Norfolk Covention and Visitors Bureau		unknown	
 accidental-tourist-mermaid-MISSING-DONTUSE.jpg
+east-ocean-view-avenue-accidental-tourist-NEAR-MRS-BOONES-DONTUSE.jpg
 
 				
 Angel Of Mercy	Koreen D'Amelio	Nelson M. Karp Medical Center	TCC, across from MacArthur Center	unknown	
@@ -1030,7 +1157,8 @@ Doubloon	Myke Irving	Cenit Bank	CENIT bank	unknown
 Fairway Maiden	Stephanie Stutz and Angela Satterfield	Mermaids on Parade Committee		unknown
 fairway-maiden-mermaid-stephanie-stutz-and-angela-satterfield-MISSING-DONTUSE.jpg
 					
-Hats Off to The Navy	Koreen Damelio	Ghent on the Square Apts.	Norfolk, near Opera House on corner of Llewellyn	unknown	
+Hats Off to The Navy	Koreen Damelio	Ghent on the Square Apts.	Norfolk, near Opera House on corner of Llewellyn	unknown
+llewellyn-corner-near-opera-house-hats-off-to-the-navy-mermaid-MISSING-DONTUSE.jpg
 					
 Jealous Mistress	Joscelyn L. Rivers	Protogyrou & Rigney, PLC	215 City Hall Ave.	unknown	
 					
@@ -1044,9 +1172,11 @@ Leading The Way	Clelia Sheppard	Judy Boone Realty	809 East Ocean View Ave.	unkno
 					
 Maid Of Lobster	Mike Bell	Bay Mechanical Inc.		unknown	
 					
-Memory	Cathy Cox	Debbie & Matt Mervis	Stockley Gardens	unknown	
+Memory	Cathy Cox	Debbie & Matt Mervis	Stockley Gardens	unknown
+stockley-gardens-memory-mermaid-cathy-cox-MISSING-DONTUSE.jpg
 					
-Mythical Sirena	Alba Bragoli	Ocean View Merchants Association	Ocean View Park, next to Pagoda	unknown	
+Mythical Sirena	Alba Bragoli	Ocean View Merchants Association	Ocean View Park, next to Pagoda	unknown
+ocean-view-park-next-to-pagoda-mythical-siren-mermaid-alba-bragoli-
 					
 Nebula/ She's Every Ocean	Carolyn Sleeper/Norfolk Collegiate Upper	Heritage Bank & Trust		unknown	
 					
@@ -1058,14 +1188,20 @@ Nymphork	Nanette Albano/Diane Murdock	HBA Architects		unknown
 					
 Of The Sea	Jennifer Blythe	Bank of the Commonwealth	Bazemore's - Hampton Blvd. at foot of Lafayette Bridge	unknown	
 					
-Picture Frame Mermaid	Amy Posey	The Harbor Gallery		unknown	
+Picture Frame Mermaid	Amy Posey	The Harbor Gallery		unknown
+the-harbor-gallery-picture-frame-mermaid-amy-posey-missing-01.jpg
+the-harbor-gallery-picture-frame-mermaid-amy-posey-missing-02.jpg
+
+
 					
 Postcards From Hampton Roads	Myke Irving	Norfolk International Airport Authority	Outside Norfolk Scope Arena	unknown
 norfolk-scope-outside-the-arena-postcards-from-hampton-roads-01.jpg
 norfolk-scope-outside-the-arena-postcards-from-hampton-roads-02.jpg
 
 					
-Reaching For A Dream	Leslie Hartig & Lisa Edwards	Merrill Lynch		unknown	
+Reaching For A Dream	Leslie Hartig & Lisa Edwards	Merrill Lynch		unknown
+waterside-drive-reaching-for-a-dream-mermaid-leslie-hartig-and-lisa-edwards-NOTYOURS.jpg
+
 					
 Reflections	Barbara Mastaglio	VMASC	7034 Azalea Garden Rd.	unknown	
 					
@@ -1122,11 +1258,6 @@ http://www.thewilliamsschool.org/
 Norfolk, VA 23507
 (757) 627-1383
 
-ITHINK-gilber-street-norfolk-naval-base-maid-for-the-fleets-mermaid-
-
-Maid for the Fleets lat long Latitude	36.947649° N
-Longitude	76.309010° W
-
 
 36.947649° N 76.309010° W
 
@@ -1171,7 +1302,8 @@ http://lisasuhay0.tripod.com/georgiainvirginia/index.html">Georgia in Virginia
 	<p>Permanently placed in front of the Kirn Memorial Library in downtown Norfolk, Virginia, this mermaid is one of five new mermaids Georgias Mason was commissioned to create for the "Heart & Art Mermaid Trail"
 http://lisasuhay0.tripod.com/georgiainvirginia/id12.html">FedEx Mermaid ("Maid On Time")</a>
 
-2. Maid for the Fleet	Sponsored by Navy Leagure of Hampton Rorads
+2. Maid for the Fleet	Sponsored by Navy Leagure of Hampton Roads
+maid-for-the-fleet-mermaid-georgia-mason-located-in-flower-bed-between-2-parking-lots-DONTUSE.jpg
 3. Part of DePaul Hospital's 150th Anniversary	Sponsored by Peter and Bess Decker
 4. Maid on Time	Mayor Paul Fraim & FedEx CEO Doug Duncan
 5. Custom standup for Nauticus by Georgia Mason
@@ -1194,7 +1326,6 @@ Norfolk, VA 23502
 (757) 622-2208
 
 
-marine-hydraulic-mhi-midtown-facility-mermaid
 MHI's mermaid has a scaled down USS Arleight Burke (DDF 51) in Hand
 
 
@@ -1241,6 +1372,7 @@ pretlow-branch-library-sirena-at-play-in-willoughby-mermaid-after-makeover-by-ge
 
 Sirene de Mission
 she was missing from her home on the median in front of DePaul Hospital on our first hunt. She has since returned from hiatus and is now perched on the lawn by the corner of Granby St and Kingsly Ln. looking more fabulous than ever.
+corner-of-granby-street-and-kingsly-lane-on-lawn-sirene-de-mission-mermaid-second-location.jpg
 
 Seasonal Mermaid
 Botanical Gardens
@@ -1250,6 +1382,7 @@ Winter, Spring, Summer and Fall are all present and accounted for on this spoile
 
 Toga
 Decorated with what must be thousands of mosaic components, she dons a grecian drape to welcome people to the Berkley area near the Norfolk shipyards.
+berkley-area-near-norfolk-shipyards-toga-mermaid.jpg
 
 Nora Folk
 This silvery swimmer is very entertainingly "clothed" in Norfolk postcards and tickets to Tides and Admirals games as well as events for Chrysler Hall and Scope. Her "broken arm" gave me the opportunity to tell my kids about the Norfolk Mace.
@@ -1271,8 +1404,9 @@ By The Stars
 watches over the Discovey Child Care Center on Redgate Ave
 
 
-Mirror Mosiac (blue swirls)
+Mirror Mosiac (Blue Swirls)
 lights up Boush St like a beacon by the Bank of the Commonwealth.
+boush-street-bank-of-the-commonwealth-mirror-mosaic-blue-swirls-mermaid.jpg
 
 Reflections of the Soul
 Only viewable from the Larchmont Bridge on Hampton Blvd. this lovely lady seems to rise from a bush in the yard of her owner.
@@ -1282,6 +1416,11 @@ Silver Mermaid
 damaged by vandals - removed her from her post at William E. Wood Realty and thrown into Hampton Boulevard traffic.
 as of 2009 04 30 she was awaiting repair by artist Chris Alexander
 at her unveiling, she will be dedicated in loving memory of deeply missed co-worker Debbie Myers
+hampton-boulevard-and-west-21st-street-corner-silver-mermaid-01.jpg
+hampton-boulevard-and-west-21st-street-corner-silver-mermaid-02.jpg
+hampton-boulevard-and-west-21st-street-corner-silver-mermaid-03.jpg
+hampton-boulevard-and-west-21st-street-corner-silver-mermaid-04.jpg
+hampton-boulevard-and-west-21st-street-corner-silver-mermaid-05.jpg
 
 Thumbellina
 Donated by their PTA, W.E.Taylor Elementary School's mermaid rests in the media center. This cutie got her name from the painting technique used on her tail. It's made from using the thumb prints of her students!
@@ -1292,6 +1431,8 @@ displayed privately on secure floor in the InfiNet building; composed entirely o
 
 Her Favorite Port
 Donated to the city by the Portsmouth Renaissance Hotel and renamed "Elizabeth" this maiden has seen better days. Badly faded by the sun, she stands watch over the ferry landing at the Portsmouth welcome Center on Crawford St in Olde Towne.
+crawford-street-in-olde-town-portsmouth-atop-the-ferry-landing-at-the-welcome-center-her-favorite-port-mermaid-renamed-to-elizabeth-mermaid-0
+crawford-street-ferry-landing-portsmouth-welcome-center-in-olde-towne-her-favorite-port-aka-elizabeth-mermaid.jpg
 crawford-street-ferry-landing-portsmouth-welcome-center-in-olde-towne-her-favorite-port-aka-elizabeth-mermaid
 
 Music Mosaic
@@ -1300,6 +1441,11 @@ atop-norva-sign-music-mosaic-mermaid-DONTUSE.jpg
 
 Sea Shimmer
 This mysterious beauty sits on a broken stand in front of the Ghent Physical Therapy building near the end of 21st St. I drive by her regularly and she is never facing the same direction twice.
+Sherry L. Hodges
+The Therapy Network
+Ghent Physical Therapy
+West 21st Street
+west-21st-street-ghent-physical-therapy-sea-shimmer-mermaid-01.jpg
 
 
 1838 Ocean View Avenue
