@@ -51,10 +51,6 @@ Norfolk, VA 23510
 253-w-bute-street-SCREENSHOT-02.jpg
 
 
-evms-mermaid-is-on-west-olney-road
-EVMS mermaid is on W. Olney Road
-
-
 
 O'Sullivan's Wharf
 4300 Colley Ave
@@ -356,13 +352,17 @@ Elizabeth
 elizabeth-mermaid-in-front-of-tidewater-womens-health-clinic-by-georgia-mason-01.jpg
 10/02/08	Elizabeth	Fort Nelson Park, Portsmouth	x
 
-Evening Seagoddess
-	
+Evening Seagoddess	
 Evening Sea Goddess	Michele D. Barnes	Dudley Cooper Realty Corp.		unknown/ contact owner if I track her down	
 
 Evie
+evms-mermaid-is-on-west-olney-road
+EVMS mermaid is on W. Olney Road
+
 36.86124, -76.30066 Evey	Georgia Mason	Eastern Virginia Medical School	Lewis Hall, EVMS	found	
-					
+evey-mermaid-olney-road-entrance-of-lewis-hall-created-by-georiga-mason-DONTUSE-01.jpg
+evey-mermaid-olney-road-entrance-of-lewis-hall-created-by-georiga-mason-DONTUSE-02.jpg
+		
 Evie		Evelyn Ott's School of Dance	
 Evelyn Ott's School of Dance- Little Creek Rd	found	
 7921 Harold Street
@@ -680,6 +680,7 @@ Literacy	Deborah T. Small	The Virginian-Pilot	150 West Brambleton Ave.	found
 Liquid Energy
 36.85725, -76.24188 Liquid Energy	Pamela Pine Winslow	Paxton Company	1111 Ingleside Dr. (attached to building)	found	
 111-ingleside-drive-attached-to-building-liquid-energy-mermaid-
+liquid-energy-mermaid-NOTYOURS.jpg
 
 Maid For Life		
 36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr #300 Norfolk, VA 23502 found
@@ -708,6 +709,7 @@ Maid In Voyage	123 Granby Street
 
 36.84664, -76.29189 Maid In Voyage	Mike Bell	Norfolk OpSail 2000	124 Main St.	found
 124-main-street-norfolk-opsail-2000-maid-in-voyage-mermaid-mike-bell
+maid-in-voyage-mermaid-124-main-street.jpg
 
 Maid of Lobster							
 Maid Of Lobster	Mike Bell	Bay Mechanical Inc.		unknown	
@@ -725,7 +727,7 @@ maid-in-time-DONTUSE.jpg
 Maid to Cruise	Nauticus, Front
 Maid to Cruise	relocated due to construction
 Maid To Cruise	Georgia Mason	Clark Nexsen	At the entrance to Nauticus from Town Point Park	found\
-nauticus-entrance-at-town-point-park-maid-to-cruise-mermaid-georgia-mason-
+maid-to-cruise-mermaid-waterside-drive-nauticus-entrance-at-town-point-park-georgia-mason-DONTUSE.jpg
 
 
 					
@@ -883,7 +885,7 @@ Music Mosaic	Norva, Monticello Avenue	x
 Mystique
 36.8457, -76.2894 Mystique	Terry Lee Sr.	Sheraton Norfolk Waterside Hotel	Main lobby of Waterside Sheraton	found	
 777 Waterside Drive Norfolk, VA 23510
-	
+mystique-mermaid-downtown-sheraton-mail-lobby-by-the-sea-OR-mystique-NOTSUREABOUTNAME-DONUSE.jpg
 Mythical Sirena	Alba Bragoli	Ocean View Merchants Association	Ocean View Park, next to Pagoda	unknown
 ocean-view-park-next-to-pagoda-mythical-siren-mermaid-alba-bragoli-
 
@@ -1228,6 +1230,8 @@ Spectrum	Mike Wedner	Norshipco		unknown
 Spirit	Entrance Norfolk Intl Airport						
 Spirit (renamed "Hope")	Chris Alexander	Lynda B. Kennedy	Lake Taylor Hospital	found
 lake-taylor-hospital-spirit-mermaid-renamed-hope-mermaid-
+spirit-mermaid-norfolk-international-airport-after-being-vandalized-01-NOTYOURS.jpg
+
 					
 Spirit of the Sapphire	Angie Thomas	Sapphire Creations		unknown	
 spirit-of-the-sapphire-mermaid-angie-thomas-MISSING-DONTUSE.jpg
@@ -1331,7 +1335,6 @@ Toola Mermaid
 
 
 	
-Williams' School Mermaid
 
 USS Wisconsin
 USS Wisconsin					
