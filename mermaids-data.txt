@@ -504,10 +504,12 @@ Holiday Sands Maiden Mermaid			Holiday Sand Hotel in Oceanview	found
 holiday-sands-maiden-mermaid-holiday-sands-hotel-ocean-view-NOTYOURS-MAYHAVEMOVED.jpg
 
 
-Hope	1309 Kempsville Road - Lake Taylor Hospital	x
+Hope Mermaid
+	1309 Kempsville Road - Lake Taylor Hospital	x
 Hope
 @36.866605,-76.206188
-
+hope-mermaid-1309-kempsville-road-lake-taylor-hospital-01-lake-taylor-hospital-FORKIDS-QUESTIONMARKS-located-in-atrium-faith-mermaid.jpg
+hope-mermaid-1309-kempsville-road-lake-taylor-hospital-02-lake-taylor-transitional-home-DONTUSE.jpg
 
 Horizon	Kingston Elementary School
 Horizons Mermaid
