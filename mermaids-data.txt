@@ -494,6 +494,9 @@ crawford-street-ferry-landing-portsmouth-welcome-center-in-olde-towne-her-favori
 
 Her Favorite Port	Portsmouth Renaissance Hotel	NF	CONFIRMED lost or missing
 
+Holiday Inn Express Mermaid
+holiday-inn-express-and-suites-mermaid.jpg
+holiday-inn-express-and-suites-mermaid-02-2631759-Holiday-Inn-Express-Hotel-Suites-NORFOLK-AIRPORT-Lobby-6.jpg
 
 
 	
@@ -1046,7 +1049,9 @@ Plated Mermaid
 	36.849962, -76.290492 Plated Mermaid	Ed Gibbs	Tidewater Community College	Corner of College Dr. and Granby St.	found	
 Plated Mermaid
 36.850117,-76.290583
-				
+plated-mermaid-corner-of-college-drive-and-granby-street-tcc-near-macarthur-mall-01.jpg
+plated-mermaid-corner-of-college-drive-and-granby-street-tcc-near-macarthur-mall-02.jpg
+			
 Princess Azalea	Bess Decker	Peter Decker, Jr. & Howard Webb	Nauticus - Third floor balcony	found
 nauticus-fountain-princess-azalea-DONTUSE-01.jpg
 nauticus-fountain-princess-azalea-DONTUSE-02.jpg
@@ -1371,6 +1376,7 @@ USS Wisconsin
 10/04/08	USS Wisconsin - 2	333 Waterside Drive, inside	x
 uss-wisconsin-mermaid-01-waterside-food-court-near-joes-DONTUSE.jpg
 uss-wisconsin-mermaid-02-waterside-food-court-near-joes-DONTUSE.jpg
+uss-wisconsin-mermaid-back-waterside-food-court-near-joes-DONTUSE.jpg
 
 Wavey Mermaid	Adrianne Shepard/Tabb High School	Norfolk Waterside Marriott	The Marriott in Norfolk	unknown	
 Wavey Mermaid		
