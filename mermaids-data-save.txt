@@ -1,71 +1,7 @@
-﻿
-
-Mary D. Pretlow 	
-First Address:
-	9640 Granby St
-	Norfolk, VA 23503
-Real Address:
-	111 W Ocean View Ave, Norfolk, VA 23503
-	Phone:(757) 441-1750
-mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-01.jpg
-mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-02.jpg
-mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-03.jpg
-mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-04.jpg
-mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-05.jpg
-
-
-
-	
-
-
-
-
-
-
-1111 Ingleside Rd
-Norfolk, VA 23502
-
-36.8472082, -76.2944269 1 Waterside Drive Norfolk, Virginia 23510	In front of Nauticus
-36.8464112, -76.2925119 120 West Main Street Norfolk, VA 23510-1629 
-36.84469685339312, -76.29346668720245 (Spirit Pier or some bullshit Town Point Park</
-36.8437824496418, -76.29132628440857 behind waterside, roughly
-36.844452154869266, -76.28584384918213 city hall, roughly
-36.84542, -76.28554 810 Union Street  
-
-36.84810, -76.29065 215 City Hall Avenue (Monticello Arcade)
-
-36.85387, -76.28533 215 East Brambleton Avenue Norfolk, VA 23510 (Scope)
-36.85495, -76.28988 150 West Brambleton Avenue, Norfolk, VA VAPilot
-36.85238, -76.29099 403 Boush Street, Norfolk, VA bank of the commonwealth
-36.84985, -76.29016300 Granby Street Norfolk, VA 23510-1910  tcc
-36.84613, -76.29125 208 East Main Street Norfolk, VA 23510-1608  d'art center
-36.85102, -76.29222 200 College Place, Norfolk, VA 23510 The Heritage at Freemason Harbour Apartments 
-36.85174, -76.29571 355 West Freemason Street Norfolk, VA 23510  Shriver and Holland Architects 
-
-
-
-
-Mer Majesty - Her highness is a rare concrete mermaid but she carries her weight well. Her tail is inset with a tile mosaic and she dons several types of sea shells. She is also the only mermaid in Sandbridge surrounded by more than a dozen Promise Dolphins.
-
-The Ocean Patina Mermaid, on display at Waterside. 
-
-Picasso's Beauty - This mysterious maiden is tucked away near the FBI building at Virginia Eye Associates. She is really spectacular- a favorite of the day!
-
-This bright and colorful mermaid on parade is located outside of the Virginia Oncology Associates building near Norfolk International Airport.
-
-http://maps.google.com/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=111287579425408786815.000467a26668ec3a8c11c
-
-
-	
-
-	
-
-
-
-
-Accidental Tourist is a beauty that has been hard to find until today!  She was spotted at 1838 E. Ocean View Avenue on December 14, 2009.
-1838 Ocean View Avenue
-Norfolk, VA
+﻿Accidental Tourist 
+	36.938944,-76.22403",
+	"1838 East Ocean View Avenue",
+	"Norfolk, VA 23503",
 1838-ocean-view-avenue-01.jpg
 1838-ocean-view-avenue-02.jpg
 1838-ocean-view-avenue-03.jpg
@@ -75,12 +11,6 @@ Norfolk, VA
 
 
 
-
-
-	
-	
-
-	
 
 1950 Fish Dish Mermaid
 	758 West 22nd Street
@@ -772,6 +702,11 @@ Lighted Mermaid
 Liquid Energy
 36.85725, -76.24188 Liquid Energy	Pamela Pine Winslow	Paxton Company	1111 Ingleside Dr. (attached to building)	found	
 111-ingleside-drive-attached-to-building-liquid-energy-mermaid-
+	
+1111 Ingleside Rd
+Norfolk, VA 23502
+
+
 liquid-energy-mermaid-NOTYOURS.jpg
 Liquid Energy	111 Ingleside Road, Industrial Park	x
 Liquid Energy
@@ -811,7 +746,12 @@ joes-crab-shack-outside-waterside-low-tide-at-waterside-mermaid-DONUSE.jpg
 
 
 Maid For Life		
-	36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr #300 Norfolk, VA 23502 found
+	36.87823, -76.20499 Maid for Life	Georgia Mason	Virginia Oncology Associates	Virginia Oncology Associates- Lake Wright	5900 Lake Wright Dr #300 Norfolk, VA 23502 	
+	
+
+
+
+This bright and colorful mermaid on parade is located outside of the Virginia Oncology Associates building near Norfolk International Airport.
 relay-for-life-mermaid-5900-lake-wright-drive-virginia-oncology-associates-maid-for-life-mermaid-georgia-mason-SCREENSHOT.png
 relay-for-life-mermaid-5900-lake-wright-drive-virginia-oncology-associates-maid-for-life-mermaid-georgia-mason-NOTYOURS.jpg
 relay-for-life-mermaid-virginia-oncology-associates-building-NOTYORUS.jpg
@@ -921,6 +861,8 @@ memory-mermaid-stockley-gardens-cathy-cox-MISSING-DONTUSE.jpg
 Mer Bones Mermaid
 	Gayle Hinkley	Denbigh Orthopaedics & Sports Medicine		not public	
 Mer Bones	Denbigh Orthopedic	NF	CONFIRMED lost or missing
+
+Mer Majesty - Her highness is a rare concrete mermaid but she carries her weight well. Her tail is inset with a tile mosaic and she dons several types of sea shells. She is also the only mermaid in Sandbridge surrounded by more than a dozen Promise Dolphins.
 
 Mermaid de Leche Mermaid
 	36.8510, -76.2904 Mermaid de Leche	Martha Gibson	aLatte Café	aLatte Café's front window at 321 Granby St.	found
@@ -1177,7 +1119,9 @@ Ocarina was spotted in Virginia Beach on October 8, 2008. To see her, go to One 
 
 Ocean Patina Mermaid
 	Ocean Patina	Harbor, 333 Waterside Drive	x
-					
+		The Ocean Patina Mermaid, on display at Waterside. 
+
+			
 36.84390, -76.29180 Ocean Patina	Cindy Graf	American Rover/ Waterside Marina	333 Waterside Dr # 106
 Norfolk, VA 23510	found
 ocean-patina-behind-waterside-01.jpg
@@ -1217,6 +1161,7 @@ Penny Mermaid
 
 Picasso's Beauty Mermaid
 	outside fbi building
+	Picasso's Beauty - This mysterious maiden is tucked away near the FBI building at Virginia Eye Associates. She is really spectacular- a favorite of the day!
 
 Picasso's Beauty was spotted at VA Eye Consultants, 241 Corporate Boulevard, Norfolk, on December 11, 2009.
 	36.8428, -76.214 Picasso's Beauty			Virginia Eye Consultants- 241 Corporate Blvd	found	
@@ -1232,6 +1177,7 @@ Plated Mermaid
 	TCC near MacArthur Mall				
 	36.849962, -76.290492 Plated Mermaid	Ed Gibbs	Tidewater Community College	Corner of College Dr. and Granby St.	found	
 36.850117,-76.290583
+36.84985, -76.29016 300 Granby Street Norfolk, VA 23510-1910  tcc
 plated-mermaid-corner-of-college-drive-and-granby-street-tcc-near-macarthur-mall-01.jpg
 plated-mermaid-corner-of-college-drive-and-granby-street-tcc-near-macarthur-mall-02.jpg
 			
@@ -1440,6 +1386,29 @@ silver-mermaid-william-e-wood-realty-NOTYOURS.jpg
 Sirena At Play In Willoughby Mermaid
 	She has a completely new facade and looks nothing like her original
 	Sirena at Play in Willoughby is located on the side of Pretlow Library opposite the home of another beauty, Marina, in Ocean View. I actually remember being at the amusement park themed for this lady of the sea. Spotted 12/11/2009.
+
+
+Mary D. Pretlow 	
+First Address:
+	9640 Granby St
+	Norfolk, VA 23503
+Real Address:
+	111 W Ocean View Ave, Norfolk, VA 23503
+	Phone:(757) 441-1750
+mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-01.jpg
+mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-02.jpg
+mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-03.jpg
+mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-04.jpg
+mary-d.-pretlow-anchor-branch-norfolk-city-library-9640-granby-st-05.jpg
+
+
+
+	
+
+
+
+
+
 
 
 
